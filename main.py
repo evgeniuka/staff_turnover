@@ -41,6 +41,9 @@ def main():
     leaver_mask = merged["FireReason"].notna()
     merged.loc[leaver_mask, "EmployeeStatus"] = "Exited"
 
+    merged["DOB"] = pd.to_datetime(merged["DOB"], format="%d.%m.%Y", errors="coerce").dt.strftime("%Y-%m-%d")
+    merged = merged.drop_duplicates(subset=["FirstName", "LastName", "DOB"], keep="first")
+
     merged.to_csv("employee_clean.csv", index=False, encoding="utf-8-sig")
     counts.to_csv("fire_reason_counts.csv", index=False, encoding="utf-8-sig")
 
