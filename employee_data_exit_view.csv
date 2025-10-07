@@ -1,1534 +1,1534 @@
-﻿EmpID;Manager;FireReason
-3433;David Garcia;Relocation
-3434;David Garcia;Personal reasons
-3436;David Garcia;Health reasons
-3438;David Garcia;Attendance issues
-3439;David Garcia;Work-life balance
-3440;David Garcia;Position eliminated
-3442;David Garcia;Conflict with manager
-3443;David Garcia;Seeking higher pay
-3444;David Garcia;Better opportunity
-3447;David Garcia;Seeking new challenges
-3448;David Garcia;Company downsizing
-3449;David Garcia;Career change
-3450;David Garcia;End of contract term
-3451;David Garcia;Poor performance
-3455;David Garcia;Found a better role
-3458;Sarah Robinson;Not a good culture fit
-3459;Sarah Robinson;Relocation
-3461;Sarah Robinson;Poor performance
-3462;Sarah Robinson;Going back to school
-3463;Sarah Robinson;Attendance issues
-3464;Sarah Robinson;Position eliminated
-3466;Sarah Robinson;Conflict with manager
-3469;Sarah Robinson;Personal reasons
-3470;Sarah Robinson;Company downsizing
-3475;Sarah Robinson;Seeking new challenges
-3476;Sarah Robinson;Better opportunity
-3478;Jessica Miller;Health reasons
-3479;Jessica Miller;Better opportunity
-3480;Jessica Miller;Relocation
-3481;Jessica Miller;Company downsizing
-3482;Jessica Miller;Seeking new challenges
-3486;Jessica Miller;Seeking higher pay
-3495;Jessica Miller;Position eliminated
-3498;Jessica Miller;Poor performance
-3499;Jessica Miller;Conflict with manager
-3500;Jessica Miller;Career change
-3501;Jessica Miller;End of contract term
-3506;Jessica Miller;Found a better role
-3507;Jessica Miller;Work-life balance
-3511;Jessica Miller;Personal reasons
-3512;James Harris;Not a good culture fit
-3513;James Harris;Going back to school
-3515;James Harris;Seeking new challenges
-3516;James Harris;Personal reasons
-3518;James Harris;Relocation
-3519;James Harris;Career change
-3520;James Harris;Poor performance
-3523;James Harris;End of contract term
-3524;James Harris;Attendance issues
-3525;James Harris;Seeking higher pay
-3527;James Harris;Better opportunity
-3529;James Harris;Health reasons
-3533;James Harris;Conflict with manager
-3535;James Harris;Position eliminated
-3537;James Harris;Company downsizing
-3538;James Harris;Work-life balance
-3540;James Harris;Found a better role
-3541;Nancy King;Poor performance
-3544;Nancy King;Career change
-3546;Nancy King;Position eliminated
-3548;Nancy King;Seeking new challenges
-3549;Nancy King;End of contract term
-3550;Nancy King;Going back to school
-3552;Nancy King;Not a good culture fit
-3555;Nancy King;Health reasons
-3556;Nancy King;Company downsizing
-3559;Nancy King;Attendance issues
-3562;Nancy King;Conflict with manager
-3564;Nancy King;Seeking higher pay
-3568;Nancy King;Found a better role
-3569;Nancy King;Relocation
-3570;Michael Martin;Career change
-3571;Michael Martin;Work-life balance
-3572;Michael Martin;Seeking higher pay
-3573;Michael Martin;Conflict with manager
-3574;Michael Martin;Going back to school
-3575;Michael Martin;Not a good culture fit
-3576;Michael Martin;Relocation
-3581;Michael Martin;Health reasons
-3582;Michael Martin;Position eliminated
-3583;Michael Martin;Found a better role
-3586;Michael Martin;Company downsizing
-3587;Michael Martin;Poor performance
-3588;Michael Martin;Personal reasons
-3590;Michael Martin;Seeking new challenges
-3591;Michael Martin;End of contract term
-3592;Michael Martin;Better opportunity
-3595;Michael Martin;Attendance issues
-3597;Daniel Allen;Poor performance
-3598;Daniel Allen;End of contract term
-3602;Daniel Allen;Position eliminated
-3603;Daniel Allen;Going back to school
-3604;Daniel Allen;Not a good culture fit
-3606;Daniel Allen;Seeking higher pay
-3607;Daniel Allen;Work-life balance
-3614;Daniel Allen;Conflict with manager
-3615;Daniel Allen;Relocation
-3619;Daniel Allen;Personal reasons
-3620;Daniel Allen;Better opportunity
-3622;Daniel Allen;Career change
-3625;Daniel Allen;Company downsizing
-3627;Daniel Allen;Attendance issues
-3629;Daniel Allen;Health reasons
-3631;Betty Robinson;Going back to school
-3632;Betty Robinson;Personal reasons
-3634;Betty Robinson;Career change
-3639;Betty Robinson;Found a better role
-3641;Betty Robinson;Health reasons
-3642;Betty Robinson;Relocation
-3647;Betty Robinson;Conflict with manager
-3650;Betty Robinson;Company downsizing
-3652;Betty Robinson;Seeking new challenges
-3653;Betty Robinson;Not a good culture fit
-3658;Betty Robinson;Poor performance
-3659;Betty Robinson;Position eliminated
-3661;Betty Robinson;Seeking higher pay
-3663;Betty Robinson;Work-life balance
-3664;Betty Robinson;Attendance issues
-3666;Betty Robinson;End of contract term
-3667;Betty Robinson;Better opportunity
-3668;William Clark;Not a good culture fit
-3669;William Clark;Company downsizing
-3670;William Clark;Conflict with manager
-3671;William Clark;Relocation
-3673;William Clark;End of contract term
-3674;William Clark;Position eliminated
-3675;William Clark;Attendance issues
-3683;William Clark;Personal reasons
-3684;William Clark;Better opportunity
-3685;William Clark;Found a better role
-3686;William Clark;Poor performance
-3688;Joseph Walker;Position eliminated
-3690;Joseph Walker;End of contract term
-3693;Joseph Walker;Poor performance
-3694;Joseph Walker;Better opportunity
-3695;Joseph Walker;Seeking higher pay
-3696;Joseph Walker;Company downsizing
-3698;Joseph Walker;Health reasons
-3699;Joseph Walker;Going back to school
-3703;Joseph Walker;Personal reasons
-3704;Joseph Walker;Seeking new challenges
-3705;Joseph Walker;Found a better role
-3708;Joseph Walker;Relocation
-3709;Joseph Walker;Not a good culture fit
-3712;Joseph Walker;Work-life balance
-3716;Joseph Walker;Conflict with manager
-3718;Laura Miller;Position eliminated
-3720;Laura Miller;Work-life balance
-3721;Laura Miller;Conflict with manager
-3722;Laura Miller;Relocation
-3723;Laura Miller;End of contract term
-3724;Laura Miller;Better opportunity
-3725;Laura Miller;Seeking higher pay
-3726;Laura Miller;Seeking new challenges
-3729;Laura Miller;Not a good culture fit
-3731;Laura Miller;Health reasons
-3733;Laura Miller;Found a better role
-3736;Laura Miller;Company downsizing
-3738;Laura Miller;Personal reasons
-3739;Laura Miller;Poor performance
-3740;Laura Miller;Career change
-3741;Laura Miller;Going back to school
-3742;Laura Miller;Attendance issues
-3745;Robert Wright;Going back to school
-3747;Robert Wright;Seeking higher pay
-3753;Robert Wright;End of contract term
-3754;Robert Wright;Conflict with manager
-3755;Robert Wright;Company downsizing
-3757;Robert Wright;Better opportunity
-3758;Robert Wright;Career change
-3759;Robert Wright;Poor performance
-3761;Robert Wright;Not a good culture fit
-3763;Robert Wright;Personal reasons
-3766;Robert Wright;Health reasons
-3767;Robert Wright;Seeking new challenges
-3770;Robert Wright;Work-life balance
-3771;Robert Wright;Found a better role
-3772;Robert Wright;Relocation
-3773;Robert Wright;Position eliminated
-3774;Robert Wright;Attendance issues
-3775;Mark Robinson;Position eliminated
-3776;Mark Robinson;Poor performance
-3778;Mark Robinson;Health reasons
-3779;Mark Robinson;Career change
-3780;Mark Robinson;Found a better role
-3781;Mark Robinson;Company downsizing
-3782;Mark Robinson;Personal reasons
-3786;Mark Robinson;Seeking higher pay
-3787;Mark Robinson;End of contract term
-3788;Mark Robinson;Going back to school
-3790;Mark Robinson;Work-life balance
-3792;Mark Robinson;Relocation
-3796;Mark Robinson;Better opportunity
-3798;Mark Robinson;Seeking new challenges
-3803;Mark Robinson;Not a good culture fit
-3806;Mark Robinson;Attendance issues
-3807;Jennifer Taylor;Position eliminated
-3808;Jennifer Taylor;Found a better role
-3809;Jennifer Taylor;Conflict with manager
-3811;Jennifer Taylor;End of contract term
-3812;Jennifer Taylor;Work-life balance
-3814;Jennifer Taylor;Better opportunity
-3817;Jennifer Taylor;Seeking higher pay
-3818;Jennifer Taylor;Company downsizing
-3820;Jennifer Taylor;Poor performance
-3822;Jennifer Taylor;Relocation
-3823;Jennifer Taylor;Not a good culture fit
-3826;Jennifer Taylor;Personal reasons
-3829;Jennifer Taylor;Career change
-3832;Jennifer Taylor;Health reasons
-3833;Jennifer Taylor;Seeking new challenges
-3834;Jennifer Taylor;Attendance issues
-3835;Joseph King;Seeking higher pay
-3837;Joseph King;Not a good culture fit
-3838;Joseph King;Poor performance
-3840;Joseph King;Personal reasons
-3842;Joseph King;Better opportunity
-3843;Joseph King;Company downsizing
-3844;Joseph King;Going back to school
-3846;Joseph King;Career change
-3847;Joseph King;Seeking new challenges
-3850;Joseph King;Health reasons
-3851;Joseph King;End of contract term
-3852;Joseph King;Position eliminated
-3853;Joseph King;Relocation
-3854;Joseph King;Work-life balance
-3855;Joseph King;Found a better role
-3856;Joseph King;Conflict with manager
-3857;Joseph King;Attendance issues
-3859;Michael Clark;Poor performance
-3860;Michael Clark;Company downsizing
-3862;Michael Clark;Personal reasons
-3864;Michael Clark;Better opportunity
-3865;Michael Clark;Career change
-3866;Michael Clark;Conflict with manager
-3869;Michael Clark;Relocation
-3870;Michael Clark;Not a good culture fit
-3872;Michael Clark;Seeking higher pay
-3873;Michael Clark;Found a better role
-3877;Michael Clark;Going back to school
-3878;Michael Clark;Health reasons
-3879;Michael Clark;End of contract term
-3880;Michael Clark;Seeking new challenges
-3883;Michael Clark;Position eliminated
-3887;Michael Clark;Work-life balance
-3888;Linda Robinson;Found a better role
-3889;Linda Robinson;Better opportunity
-3890;Linda Robinson;Poor performance
-3893;Linda Robinson;Relocation
-3895;Linda Robinson;Conflict with manager
-3896;Linda Robinson;Seeking new challenges
-3897;Linda Robinson;End of contract term
-3898;Linda Robinson;Personal reasons
-3899;Linda Robinson;Career change
-3902;Linda Robinson;Work-life balance
-3905;Linda Robinson;Position eliminated
-3908;Linda Robinson;Attendance issues
-3909;Linda Robinson;Not a good culture fit
-3910;Linda Robinson;Going back to school
-3912;Linda Robinson;Health reasons
-3913;David Martinez;Health reasons
-3914;David Martinez;Going back to school
-3917;David Martinez;Not a good culture fit
-3918;David Martinez;Attendance issues
-3920;David Martinez;Conflict with manager
-3921;David Martinez;Found a better role
-3923;David Martinez;Career change
-3925;David Martinez;Relocation
-3927;David Martinez;Better opportunity
-3928;David Martinez;Seeking higher pay
-3929;David Martinez;Poor performance
-3934;David Martinez;Position eliminated
-3936;David Martinez;Company downsizing
-3942;David Martinez;Seeking new challenges
-3943;David Martinez;Personal reasons
-3947;David Martinez;Work-life balance
-3948;David Martinez;End of contract term
-3949;Jennifer Miller;Seeking higher pay
-3951;Jennifer Miller;Position eliminated
-3955;Jennifer Miller;Not a good culture fit
-3956;Jennifer Miller;End of contract term
-3959;Jennifer Miller;Relocation
-3964;Jennifer Miller;Company downsizing
-3966;Jennifer Miller;Career change
-3967;Jennifer Miller;Personal reasons
-3970;Jennifer Miller;Going back to school
-3973;Jennifer Miller;Found a better role
-3974;Jennifer Miller;Better opportunity
-3975;Jennifer Miller;Conflict with manager
-3979;William Taylor;Company downsizing
-3981;William Taylor;Conflict with manager
-3984;William Taylor;Better opportunity
-3985;William Taylor;Work-life balance
-3987;William Taylor;Found a better role
-3988;William Taylor;Poor performance
-3990;William Taylor;Relocation
-3992;William Taylor;Seeking higher pay
-3995;William Taylor;Going back to school
-3998;William Taylor;Not a good culture fit
-3999;William Taylor;Career change
-4000;William Taylor;Seeking new challenges
-1002;William Taylor;Position eliminated
-1003;William Taylor;End of contract term
-1004;William Taylor;Health reasons
-1006;William Taylor;Attendance issues
-1007;William Taylor;Personal reasons
-1008;Paul King;Poor performance
-1009;Paul King;Going back to school
-1010;Paul King;Conflict with manager
-1011;Paul King;Personal reasons
-1012;Paul King;Position eliminated
-1014;Paul King;Seeking new challenges
-1016;Paul King;Better opportunity
-1017;Paul King;Company downsizing
-1018;Paul King;Found a better role
-1019;Paul King;Relocation
-1020;Paul King;Career change
-1021;Paul King;End of contract term
-1023;Paul King;Not a good culture fit
-1024;Paul King;Health reasons
-1025;Paul King;Attendance issues
-1026;Paul King;Work-life balance
-1027;Paul King;Seeking higher pay
-1028;Emily Clark;Company downsizing
-1032;Emily Clark;Relocation
-1036;Emily Clark;Found a better role
-1037;Emily Clark;Poor performance
-1039;Emily Clark;Going back to school
-1040;Emily Clark;Not a good culture fit
-1041;Emily Clark;Work-life balance
-1043;Emily Clark;Position eliminated
-1045;Emily Clark;Health reasons
-1046;Emily Clark;Personal reasons
-1049;Emily Clark;Better opportunity
-1051;Emily Clark;Seeking new challenges
-1052;Emily Clark;Conflict with manager
-1053;Emily Clark;Career change
-1060;Emily Clark;Seeking higher pay
-1062;Susan Garcia;Position eliminated
-1064;Susan Garcia;Better opportunity
-1066;Susan Garcia;Conflict with manager
-1069;Susan Garcia;Seeking new challenges
-1070;Susan Garcia;Relocation
-1071;Susan Garcia;Going back to school
-1074;Susan Garcia;Not a good culture fit
-1075;Susan Garcia;Attendance issues
-1076;Susan Garcia;Company downsizing
-1078;Susan Garcia;Career change
-1079;Susan Garcia;Health reasons
-1081;Susan Garcia;Poor performance
-1082;Susan Garcia;End of contract term
-1086;Susan Garcia;Seeking higher pay
-1087;Susan Garcia;Found a better role
-1088;Susan Garcia;Work-life balance
-1089;Susan Garcia;Personal reasons
-1091;Linda King;Work-life balance
-1096;Linda King;Relocation
-1097;Linda King;Seeking new challenges
-1098;Linda King;Found a better role
-1099;Linda King;Health reasons
-1103;Linda King;Position eliminated
-1105;Linda King;Better opportunity
-1109;Linda King;Not a good culture fit
-1111;Linda King;Conflict with manager
-1116;Linda King;Personal reasons
-1117;Linda King;End of contract term
-1118;Linda King;Poor performance
-1119;Linda King;Going back to school
-1122;Linda King;Career change
-1124;Linda King;Company downsizing
-1126;Linda King;Seeking higher pay
-1129;Robert Clark;Going back to school
-1132;Robert Clark;Company downsizing
-1133;Robert Clark;Found a better role
-1134;Robert Clark;Seeking higher pay
-1138;Robert Clark;Relocation
-1139;Robert Clark;Not a good culture fit
-1143;Robert Clark;Position eliminated
-1147;Robert Clark;Work-life balance
-1153;Robert Clark;Conflict with manager
-1154;Robert Clark;Career change
-1155;Robert Clark;End of contract term
-1156;Robert Clark;Poor performance
-1158;Robert Clark;Personal reasons
-1160;Robert Clark;Health reasons
-1162;Robert Clark;Better opportunity
-1172;Robert Clark;Seeking new challenges
-1173;Robert Clark;Attendance issues
-1174;Betty Miller;Health reasons
-1175;Betty Miller;Not a good culture fit
-1178;Betty Miller;End of contract term
-1182;Betty Miller;Conflict with manager
-1184;Betty Miller;Position eliminated
-1188;Betty Miller;Personal reasons
-1189;Betty Miller;Seeking higher pay
-1190;Betty Miller;Company downsizing
-1193;Betty Miller;Relocation
-1194;Betty Miller;Seeking new challenges
-1195;Betty Miller;Found a better role
-1201;Betty Miller;Career change
-1202;Betty Miller;Work-life balance
-1204;Betty Miller;Attendance issues
-1206;Betty Miller;Better opportunity
-1208;Betty Miller;Poor performance
-1210;Betty Miller;Going back to school
-1211;Laura Martin;Found a better role
-1212;Laura Martin;End of contract term
-1216;Laura Martin;Going back to school
-1217;Laura Martin;Seeking new challenges
-1219;Laura Martin;Conflict with manager
-1220;Laura Martin;Personal reasons
-1221;Laura Martin;Company downsizing
-1222;Laura Martin;Position eliminated
-1224;Laura Martin;Not a good culture fit
-1227;Laura Martin;Career change
-1234;Laura Martin;Relocation
-1236;Laura Martin;Seeking higher pay
-1237;Laura Martin;Work-life balance
-1238;Laura Martin;Better opportunity
-1239;Laura Martin;Poor performance
-1241;Mark White;Position eliminated
-1246;Mark White;Work-life balance
-1248;Mark White;Relocation
-1249;Mark White;Seeking higher pay
-1252;Mark White;Career change
-1253;Mark White;Seeking new challenges
-1255;Mark White;Poor performance
-1259;Mark White;Personal reasons
-1262;Mark White;Better opportunity
-1265;Mark White;Not a good culture fit
-1266;Mark White;End of contract term
-1267;Mark White;Found a better role
-1270;Mark White;Health reasons
-1272;Mark White;Conflict with manager
-1273;Mark White;Going back to school
-1279;Mark White;Company downsizing
-1281;Mark White;Attendance issues
-1282;Daniel Martinez;Work-life balance
-1286;Daniel Martinez;Conflict with manager
-1287;Daniel Martinez;Seeking higher pay
-1288;Daniel Martinez;Found a better role
-1291;Daniel Martinez;Better opportunity
-1293;Daniel Martinez;Relocation
-1294;Daniel Martinez;Personal reasons
-1296;Daniel Martinez;Poor performance
-1297;Daniel Martinez;Career change
-1301;Daniel Martinez;End of contract term
-1302;Daniel Martinez;Position eliminated
-1305;Daniel Martinez;Not a good culture fit
-1307;James Wright;Poor performance
-1308;James Wright;Better opportunity
-1310;James Wright;Seeking higher pay
-1311;James Wright;Work-life balance
-1314;James Wright;Personal reasons
-1316;James Wright;Company downsizing
-1317;James Wright;End of contract term
-1318;James Wright;Not a good culture fit
-1319;James Wright;Conflict with manager
-1321;James Wright;Going back to school
-1322;James Wright;Position eliminated
-1326;James Wright;Seeking new challenges
-1328;James Wright;Career change
-1329;James Wright;Relocation
-1330;James Wright;Attendance issues
-1334;James Wright;Found a better role
-1336;James Wright;Health reasons
-1337;Michael Allen;Work-life balance
-1339;Michael Allen;Seeking new challenges
-1340;Michael Allen;Company downsizing
-1342;Michael Allen;Personal reasons
-1343;Michael Allen;End of contract term
-1346;Michael Allen;Relocation
-1347;Michael Allen;Seeking higher pay
-1348;Michael Allen;Attendance issues
-1349;Michael Allen;Found a better role
-1352;Michael Allen;Conflict with manager
-1353;Michael Allen;Going back to school
-1354;Michael Allen;Poor performance
-1355;Michael Allen;Better opportunity
-1356;Michael Allen;Not a good culture fit
-1357;Sarah Thompson;Company downsizing
-1358;Sarah Thompson;Health reasons
-1361;Sarah Thompson;End of contract term
-1362;Sarah Thompson;Better opportunity
-1364;Sarah Thompson;Poor performance
-1366;Sarah Thompson;Seeking higher pay
-1371;Sarah Thompson;Going back to school
-1373;Sarah Thompson;Relocation
-1376;Sarah Thompson;Work-life balance
-1377;Sarah Thompson;Personal reasons
-1383;Sarah Thompson;Not a good culture fit
-1384;Sarah Thompson;Found a better role
-1386;Sarah Thompson;Seeking new challenges
-1387;Sarah Thompson;Position eliminated
-1388;Sarah Thompson;Conflict with manager
-1392;Sarah Thompson;Career change
-1393;Sarah Thompson;Attendance issues
-1395;Jennifer Harris;Position eliminated
-1396;Jennifer Harris;Poor performance
-1397;Jennifer Harris;Relocation
-1398;Jennifer Harris;Company downsizing
-1400;Jennifer Harris;Not a good culture fit
-1404;Jennifer Harris;Conflict with manager
-1405;Jennifer Harris;Health reasons
-1409;Jennifer Harris;Going back to school
-1410;Jennifer Harris;Personal reasons
-1413;Jennifer Harris;End of contract term
-1414;Jennifer Harris;Better opportunity
-1421;Jennifer Harris;Seeking new challenges
-1422;Jennifer Harris;Found a better role
-1424;Jennifer Harris;Work-life balance
-1426;Jennifer Harris;Seeking higher pay
-1429;Jennifer Harris;Career change
-1430;Jennifer Harris;Attendance issues
-1433;Michael Walker;Work-life balance
-1434;Michael Walker;Seeking higher pay
-1438;Michael Walker;Not a good culture fit
-1439;Michael Walker;Better opportunity
-1441;Michael Walker;Position eliminated
-1445;Michael Walker;Relocation
-1446;Michael Walker;Company downsizing
-1447;Michael Walker;Health reasons
-1450;Michael Walker;Going back to school
-1454;Michael Walker;Poor performance
-1456;Michael Walker;Personal reasons
-1460;Michael Walker;Seeking new challenges
-1461;Michael Walker;Found a better role
-1465;Michael Walker;End of contract term
-1471;David Young;Going back to school
-1474;David Young;Health reasons
-1475;David Young;Seeking higher pay
-1476;David Young;Seeking new challenges
-1477;David Young;Personal reasons
-1478;David Young;Relocation
-1483;David Young;Better opportunity
-1485;David Young;End of contract term
-1487;David Young;Not a good culture fit
-1488;David Young;Company downsizing
-1494;David Young;Career change
-1496;David Young;Work-life balance
-1498;David Young;Found a better role
-1499;David Young;Attendance issues
-1501;David Young;Poor performance
-1502;David Young;Position eliminated
-1503;Mark Martinez;Seeking new challenges
-1504;Mark Martinez;Company downsizing
-1506;Mark Martinez;Better opportunity
-1511;Mark Martinez;Relocation
-1512;Mark Martinez;Personal reasons
-1517;Mark Martinez;Poor performance
-1518;Mark Martinez;Health reasons
-1519;Mark Martinez;Position eliminated
-1520;Mark Martinez;Work-life balance
-1521;Mark Martinez;Career change
-1523;Mark Martinez;Not a good culture fit
-1525;Mark Martinez;Seeking higher pay
-1527;Mark Martinez;End of contract term
-1531;Mark Martinez;Conflict with manager
-1532;Mark Martinez;Going back to school
-1533;Mark Martinez;Found a better role
-1539;Mark Martinez;Attendance issues
-1543;Karen Robinson;Better opportunity
-1544;Karen Robinson;Work-life balance
-1546;Karen Robinson;Relocation
-1547;Karen Robinson;Seeking higher pay
-1550;Karen Robinson;Company downsizing
-1551;Karen Robinson;Going back to school
-1552;Karen Robinson;Career change
-1554;Karen Robinson;Conflict with manager
-1557;Karen Robinson;Personal reasons
-1559;Karen Robinson;Health reasons
-1560;Karen Robinson;End of contract term
-1562;Karen Robinson;Not a good culture fit
-1563;Karen Robinson;Seeking new challenges
-1564;Karen Robinson;Position eliminated
-1565;Karen Robinson;Poor performance
-1566;Karen Robinson;Found a better role
-1567;Karen Robinson;Attendance issues
-1570;Paul Brown;Relocation
-1572;Paul Brown;Seeking higher pay
-1574;Paul Brown;Poor performance
-1575;Paul Brown;Health reasons
-1576;Paul Brown;Seeking new challenges
-1578;Paul Brown;Personal reasons
-1581;Paul Brown;End of contract term
-1582;Paul Brown;Career change
-1583;Paul Brown;Better opportunity
-1585;Paul Brown;Conflict with manager
-1589;Paul Brown;Company downsizing
-1591;Paul Brown;Found a better role
-1592;Paul Brown;Work-life balance
-1596;Paul Brown;Position eliminated
-1597;Paul Brown;Not a good culture fit
-1598;Paul Brown;Going back to school
-1599;Paul Brown;Attendance issues
-1601;Jennifer Thompson;Work-life balance
-1602;Jennifer Thompson;Not a good culture fit
-1605;Jennifer Thompson;Personal reasons
-1609;Jennifer Thompson;Better opportunity
-1610;Jennifer Thompson;Relocation
-1611;Jennifer Thompson;Seeking new challenges
-1612;Jennifer Thompson;Found a better role
-1613;Jennifer Thompson;Position eliminated
-1619;Jennifer Thompson;Health reasons
-1621;Jennifer Thompson;Poor performance
-1622;Jennifer Thompson;Conflict with manager
-1623;Jennifer Thompson;Company downsizing
-1624;Jennifer Thompson;Career change
-1626;Daniel Martin;Company downsizing
-1628;Daniel Martin;Seeking higher pay
-1629;Daniel Martin;Career change
-1630;Daniel Martin;Found a better role
-1631;Daniel Martin;Position eliminated
-1633;Daniel Martin;Going back to school
-1634;Daniel Martin;Personal reasons
-1635;Daniel Martin;Relocation
-1636;Daniel Martin;Work-life balance
-1637;Daniel Martin;Health reasons
-1638;Daniel Martin;Not a good culture fit
-1639;Daniel Martin;Poor performance
-1640;Daniel Martin;Better opportunity
-1641;Daniel Martin;Conflict with manager
-1642;Daniel Martin;Seeking new challenges
-1643;Daniel Martin;End of contract term
-1644;Daniel Martin;Attendance issues
-1645;Susan Allen;Better opportunity
-1646;Susan Allen;Poor performance
-1647;Susan Allen;Company downsizing
-1650;Susan Allen;Conflict with manager
-1651;Susan Allen;Relocation
-1652;Susan Allen;Health reasons
-1653;Susan Allen;Going back to school
-1654;Susan Allen;Position eliminated
-1659;Susan Allen;Seeking new challenges
-1660;Susan Allen;Work-life balance
-1663;Susan Allen;Not a good culture fit
-1671;Susan Allen;Personal reasons
-1674;Susan Allen;Seeking higher pay
-1675;Susan Allen;End of contract term
-1678;Susan Allen;Career change
-1679;William Robinson;Seeking new challenges
-1680;William Robinson;Career change
-1681;William Robinson;Work-life balance
-1683;William Robinson;Health reasons
-1684;William Robinson;Going back to school
-1685;William Robinson;End of contract term
-1686;William Robinson;Company downsizing
-1688;William Robinson;Position eliminated
-1689;William Robinson;Relocation
-1690;William Robinson;Not a good culture fit
-1692;William Robinson;Better opportunity
-1694;William Robinson;Personal reasons
-1695;William Robinson;Conflict with manager
-1697;William Robinson;Poor performance
-1698;William Robinson;Found a better role
-1699;William Robinson;Seeking higher pay
-1701;William Robinson;Attendance issues
-1706;David Jones;End of contract term
-1707;David Jones;Seeking higher pay
-1708;David Jones;Seeking new challenges
-1709;David Jones;Health reasons
-1710;David Jones;Going back to school
-1711;David Jones;Company downsizing
-1715;David Jones;Work-life balance
-1716;David Jones;Found a better role
-1717;David Jones;Better opportunity
-1718;David Jones;Not a good culture fit
-1721;David Jones;Relocation
-1723;David Jones;Conflict with manager
-1724;David Jones;Position eliminated
-1727;David Jones;Personal reasons
-1729;David Jones;Poor performance
-1731;David Jones;Career change
-1732;Mark Clark;Going back to school
-1733;Mark Clark;Better opportunity
-1735;Mark Clark;Conflict with manager
-1736;Mark Clark;Seeking higher pay
-1738;Mark Clark;Company downsizing
-1739;Mark Clark;Position eliminated
-1740;Mark Clark;Relocation
-1746;Mark Clark;Health reasons
-1747;Mark Clark;Poor performance
-1748;Mark Clark;Work-life balance
-1752;Mark Clark;Not a good culture fit
-1753;Mark Clark;Career change
-1759;Mark Clark;Personal reasons
-1760;Mark Clark;Found a better role
-1761;Mark Clark;Seeking new challenges
-1762;Mark Clark;End of contract term
-1766;Mark Clark;Attendance issues
-1767;Susan Young;Poor performance
-1768;Susan Young;Going back to school
-1769;Susan Young;Conflict with manager
-1772;Susan Young;Found a better role
-1773;Susan Young;Health reasons
-1774;Susan Young;Personal reasons
-1775;Susan Young;Seeking new challenges
-1776;Susan Young;Career change
-1777;Susan Young;Not a good culture fit
-1780;Susan Young;Position eliminated
-1782;Susan Young;Work-life balance
-1784;Susan Young;Better opportunity
-1786;Susan Young;Company downsizing
-1787;Susan Young;Seeking higher pay
-1790;Laura Clark;Personal reasons
-1791;Laura Clark;Work-life balance
-1793;Laura Clark;Found a better role
-1795;Laura Clark;Health reasons
-1796;Laura Clark;Going back to school
-1797;Laura Clark;Seeking new challenges
-1799;Laura Clark;End of contract term
-1800;Laura Clark;Career change
-1801;Laura Clark;Relocation
-1803;Laura Clark;Conflict with manager
-1804;Laura Clark;Not a good culture fit
-1805;Laura Clark;Poor performance
-1809;Laura Clark;Better opportunity
-1812;Laura Clark;Company downsizing
-1817;Laura Clark;Position eliminated
-1823;Laura Clark;Seeking higher pay
-1824;Laura Clark;Attendance issues
-1825;Daniel Harris;Going back to school
-1826;Daniel Harris;Not a good culture fit
-1827;Daniel Harris;Company downsizing
-1828;Daniel Harris;Work-life balance
-1831;Daniel Harris;Relocation
-1834;Daniel Harris;Poor performance
-1835;Daniel Harris;End of contract term
-1839;Daniel Harris;Health reasons
-1845;Daniel Harris;Better opportunity
-1847;Daniel Harris;Position eliminated
-1850;Daniel Harris;Seeking higher pay
-1851;Daniel Harris;Found a better role
-1852;Daniel Harris;Career change
-1854;Daniel Harris;Conflict with manager
-1855;Daniel Harris;Seeking new challenges
-1857;Daniel Harris;Personal reasons
-1858;Daniel Harris;Attendance issues
-1859;Robert Thompson;Poor performance
-1860;Robert Thompson;Company downsizing
-1863;Robert Thompson;Going back to school
-1864;Robert Thompson;Career change
-1867;Robert Thompson;Conflict with manager
-1868;Robert Thompson;Personal reasons
-1872;Robert Thompson;Found a better role
-1873;Robert Thompson;Better opportunity
-1875;Robert Thompson;Not a good culture fit
-1876;Robert Thompson;Health reasons
-1878;Robert Thompson;Relocation
-1879;Robert Thompson;Position eliminated
-1880;Robert Thompson;End of contract term
-1882;Robert Thompson;Seeking higher pay
-1883;Robert Thompson;Seeking new challenges
-1886;Robert Thompson;Work-life balance
-1888;Robert Thompson;Attendance issues
-1898;Joseph Miller;Health reasons
-1899;Joseph Miller;End of contract term
-1902;Joseph Miller;Seeking new challenges
-1903;Joseph Miller;Found a better role
-1911;Joseph Miller;Relocation
-1912;Joseph Miller;Conflict with manager
-1913;Joseph Miller;Going back to school
-1914;Joseph Miller;Company downsizing
-1915;Joseph Miller;Better opportunity
-1916;Joseph Miller;Seeking higher pay
-1918;Joseph Miller;Work-life balance
-1919;Joseph Miller;Not a good culture fit
-1920;Joseph Miller;Position eliminated
-1921;Joseph Miller;Personal reasons
-1923;Joseph Miller;Career change
-1924;Joseph Miller;Poor performance
-1925;Joseph Miller;Attendance issues
-1927;James Davis;Position eliminated
-1932;James Davis;Conflict with manager
-1934;James Davis;Seeking new challenges
-1937;James Davis;Going back to school
-1942;James Davis;Personal reasons
-1943;James Davis;Not a good culture fit
-1945;James Davis;Company downsizing
-1948;James Davis;Better opportunity
-1950;James Davis;Poor performance
-1951;James Davis;Seeking higher pay
-1953;James Davis;Relocation
-1954;James Davis;Work-life balance
-1957;James Davis;Health reasons
-1959;James Davis;Found a better role
-1961;James Davis;Career change
-1962;James Davis;End of contract term
-1963;James Davis;Attendance issues
-1964;William King;Position eliminated
-1969;William King;End of contract term
-1970;William King;Found a better role
-1971;William King;Seeking new challenges
-1972;William King;Poor performance
-1977;William King;Relocation
-1978;William King;Better opportunity
-1979;William King;Career change
-1981;William King;Conflict with manager
-1983;William King;Work-life balance
-1985;William King;Not a good culture fit
-1988;William King;Personal reasons
-1990;William King;Company downsizing
-1991;William King;Going back to school
-1992;William King;Seeking higher pay
-1993;William King;Health reasons
-1994;Sarah Walker;Health reasons
-1996;Sarah Walker;Position eliminated
-1997;Sarah Walker;Seeking new challenges
-1999;Sarah Walker;Poor performance
-2000;Sarah Walker;Relocation
-2001;Sarah Walker;Better opportunity
-2002;Sarah Walker;Career change
-2003;Sarah Walker;Going back to school
-2005;Sarah Walker;Work-life balance
-2008;Sarah Walker;Not a good culture fit
-2010;Sarah Walker;Conflict with manager
-2011;Sarah Walker;Personal reasons
-2012;Sarah Walker;Found a better role
-2013;Sarah Walker;Seeking higher pay
-2018;Paul Young;Seeking new challenges
-2020;Paul Young;Relocation
-2023;Paul Young;Position eliminated
-2024;Paul Young;Work-life balance
-2025;Paul Young;Found a better role
-2026;Paul Young;Not a good culture fit
-2028;Paul Young;Conflict with manager
-2030;Paul Young;Career change
-2031;Paul Young;Seeking higher pay
-2032;Paul Young;Going back to school
-2034;Paul Young;Poor performance
-2035;Paul Young;Health reasons
-2037;Paul Young;Company downsizing
-2040;Paul Young;Attendance issues
-2050;Paul Young;Better opportunity
-2052;Paul Young;End of contract term
-2054;Paul Young;Personal reasons
-2056;Betty White;Found a better role
-2058;Betty White;Seeking new challenges
-2059;Betty White;Personal reasons
-2064;Betty White;Going back to school
-2066;Betty White;Conflict with manager
-2073;Betty White;Better opportunity
-2076;Betty White;Relocation
-2077;Betty White;Not a good culture fit
-2078;Betty White;Position eliminated
-2080;Betty White;Health reasons
-2085;Betty White;Seeking higher pay
-2086;Betty White;Poor performance
-2087;Betty White;Work-life balance
-2089;Betty White;End of contract term
-2093;Betty White;Company downsizing
-2094;Betty White;Career change
-2095;Betty White;Attendance issues
-2097;James Allen;Relocation
-2101;James Allen;Health reasons
-2106;James Allen;Found a better role
-2107;James Allen;Position eliminated
-2108;James Allen;Better opportunity
-2111;James Allen;Work-life balance
-2112;James Allen;Seeking new challenges
-2113;James Allen;Going back to school
-2115;James Allen;End of contract term
-2122;James Allen;Poor performance
-2124;James Allen;Personal reasons
-2126;James Allen;Not a good culture fit
-2131;James Allen;Conflict with manager
-2134;James Allen;Company downsizing
-2135;James Allen;Career change
-2136;James Allen;Seeking higher pay
-2137;James Allen;Attendance issues
-2138;Joseph Martinez;Work-life balance
-2141;Joseph Martinez;Seeking higher pay
-2142;Joseph Martinez;Health reasons
-2143;Joseph Martinez;Conflict with manager
-2146;Joseph Martinez;Company downsizing
-2147;Joseph Martinez;Better opportunity
-2149;Joseph Martinez;Seeking new challenges
-2150;Joseph Martinez;Relocation
-2151;Joseph Martinez;Found a better role
-2155;Joseph Martinez;End of contract term
-2156;Joseph Martinez;Personal reasons
-2157;Joseph Martinez;Not a good culture fit
-2159;Joseph Martinez;Going back to school
-2160;Joseph Martinez;Poor performance
-2165;Daniel Smith;Health reasons
-2167;Daniel Smith;Relocation
-2169;Daniel Smith;Not a good culture fit
-2171;Daniel Smith;End of contract term
-2172;Daniel Smith;Career change
-2173;Daniel Smith;Poor performance
-2175;Daniel Smith;Conflict with manager
-2179;Daniel Smith;Seeking higher pay
-2180;Daniel Smith;Better opportunity
-2181;Daniel Smith;Personal reasons
-2184;Daniel Smith;Company downsizing
-2185;Daniel Smith;Work-life balance
-2186;Daniel Smith;Position eliminated
-2188;Daniel Smith;Seeking new challenges
-2190;Daniel Smith;Found a better role
-2191;Daniel Smith;Attendance issues
-2192;Daniel Smith;Going back to school
-2193;William Harris;Seeking new challenges
-2195;William Harris;Career change
-2196;William Harris;Health reasons
-2197;William Harris;Company downsizing
-2198;William Harris;Seeking higher pay
-2203;William Harris;Going back to school
-2204;William Harris;Not a good culture fit
-2205;William Harris;Found a better role
-2210;William Harris;Work-life balance
-2212;William Harris;Better opportunity
-2213;William Harris;Position eliminated
-2214;William Harris;Conflict with manager
-2215;William Harris;Relocation
-2217;William Harris;Poor performance
-2218;William Harris;End of contract term
-2219;William Harris;Attendance issues
-2222;William Harris;Personal reasons
-2226;Paul Clark;Work-life balance
-2228;Paul Clark;End of contract term
-2234;Paul Clark;Position eliminated
-2236;Paul Clark;Going back to school
-2237;Paul Clark;Conflict with manager
-2238;Paul Clark;Seeking higher pay
-2239;Paul Clark;Better opportunity
-2242;Paul Clark;Health reasons
-2243;Paul Clark;Seeking new challenges
-2245;Paul Clark;Poor performance
-2246;Paul Clark;Career change
-2247;Paul Clark;Company downsizing
-2248;Paul Clark;Not a good culture fit
-2249;Paul Clark;Found a better role
-2250;Paul Clark;Personal reasons
-2255;Paul Clark;Relocation
-2257;John Martinez;Company downsizing
-2260;John Martinez;Going back to school
-2264;John Martinez;Conflict with manager
-2266;John Martinez;Seeking new challenges
-2268;John Martinez;Position eliminated
-2269;John Martinez;Personal reasons
-2270;John Martinez;Not a good culture fit
-2272;John Martinez;Better opportunity
-2273;John Martinez;Career change
-2280;John Martinez;Work-life balance
-2283;John Martinez;Poor performance
-2286;John Martinez;Found a better role
-2287;John Martinez;End of contract term
-2288;John Martinez;Health reasons
-2290;John Martinez;Seeking higher pay
-2293;John Martinez;Relocation
-2295;John Martinez;Attendance issues
-2297;Jessica Robinson;Conflict with manager
-2299;Jessica Robinson;Seeking new challenges
-2301;Jessica Robinson;Poor performance
-2302;Jessica Robinson;End of contract term
-2303;Jessica Robinson;Going back to school
-2305;Jessica Robinson;Better opportunity
-2306;Jessica Robinson;Company downsizing
-2308;Jessica Robinson;Not a good culture fit
-2311;Jessica Robinson;Position eliminated
-2315;Jessica Robinson;Career change
-2319;Jessica Robinson;Health reasons
-2320;Jessica Robinson;Seeking higher pay
-2321;Jessica Robinson;Work-life balance
-2323;Jessica Robinson;Found a better role
-2324;Jessica Robinson;Personal reasons
-2329;Jessica Robinson;Relocation
-2331;Jessica Robinson;Attendance issues
-2332;David Harris;Career change
-2334;David Harris;Conflict with manager
-2338;David Harris;Not a good culture fit
-2339;David Harris;Health reasons
-2340;David Harris;Better opportunity
-2344;David Harris;Seeking new challenges
-2345;David Harris;End of contract term
-2349;David Harris;Personal reasons
-2351;David Harris;Company downsizing
-2352;David Harris;Going back to school
-2354;David Harris;Found a better role
-2355;David Harris;Relocation
-2356;David Harris;Poor performance
-2357;David Harris;Work-life balance
-2358;David Harris;Position eliminated
-2359;David Harris;Seeking higher pay
-2360;David Harris;Attendance issues
-2361;Robert Martin;Seeking new challenges
-2362;Robert Martin;Better opportunity
-2363;Robert Martin;Work-life balance
-2365;Robert Martin;End of contract term
-2366;Robert Martin;Position eliminated
-2367;Robert Martin;Poor performance
-2368;Robert Martin;Not a good culture fit
-2369;Robert Martin;Found a better role
-2370;Robert Martin;Health reasons
-2372;Robert Martin;Relocation
-2373;Robert Martin;Career change
-2374;Robert Martin;Going back to school
-2376;Betty Martin;Seeking new challenges
-2379;Betty Martin;Going back to school
-2380;Betty Martin;Relocation
-2382;Betty Martin;End of contract term
-2384;Betty Martin;Career change
-2387;Betty Martin;Seeking higher pay
-2389;Betty Martin;Poor performance
-2390;Betty Martin;Found a better role
-2391;Betty Martin;Not a good culture fit
-2393;Betty Martin;Position eliminated
-2394;Betty Martin;Work-life balance
-2396;Betty Martin;Health reasons
-2397;Betty Martin;Better opportunity
-2398;Betty Martin;Conflict with manager
-2399;Betty Martin;Personal reasons
-2401;Betty Martin;Company downsizing
-2402;Betty Martin;Attendance issues
-2403;Michael Thompson;Position eliminated
-2404;Michael Thompson;Personal reasons
-2405;Michael Thompson;Going back to school
-2407;Michael Thompson;Not a good culture fit
-2412;Michael Thompson;Health reasons
-2413;Michael Thompson;Seeking higher pay
-2415;Michael Thompson;Career change
-2417;Michael Thompson;End of contract term
-2418;Michael Thompson;Conflict with manager
-2422;Michael Thompson;Found a better role
-2424;Michael Thompson;Company downsizing
-2425;Michael Thompson;Better opportunity
-2426;Michael Thompson;Poor performance
-2427;Michael Thompson;Work-life balance
-2428;Michael Thompson;Seeking new challenges
-2429;Michael Thompson;Relocation
-2430;Jennifer Clark;Work-life balance
-2431;Jennifer Clark;Going back to school
-2432;Jennifer Clark;Relocation
-2433;Jennifer Clark;Found a better role
-2434;Jennifer Clark;Health reasons
-2435;Jennifer Clark;Personal reasons
-2436;Jennifer Clark;Better opportunity
-2437;Jennifer Clark;Not a good culture fit
-2442;Jennifer Clark;Poor performance
-2446;Jennifer Clark;Conflict with manager
-2447;Jennifer Clark;Seeking higher pay
-2448;Jennifer Clark;Position eliminated
-2449;Jennifer Clark;End of contract term
-2450;Jennifer Clark;Company downsizing
-2458;Jennifer Clark;Career change
-2459;Jennifer Clark;Seeking new challenges
-2460;Jennifer Clark;Attendance issues
-2462;Mark Davis;Health reasons
-2465;Mark Davis;Found a better role
-2466;Mark Davis;Relocation
-2467;Mark Davis;Work-life balance
-2469;Mark Davis;Seeking new challenges
-2473;Mark Davis;Conflict with manager
-2474;Mark Davis;End of contract term
-2475;Mark Davis;Personal reasons
-2476;Mark Davis;Company downsizing
-2479;Mark Davis;Not a good culture fit
-2482;Mark Davis;Better opportunity
-2485;Mark Davis;Career change
-2488;Mark Davis;Position eliminated
-2493;Mark Davis;Going back to school
-2494;Mark Davis;Poor performance
-2495;Mark Davis;Seeking higher pay
-2496;Mark Davis;Attendance issues
-2497;David Wright;Better opportunity
-2498;David Wright;Found a better role
-2499;David Wright;Company downsizing
-2503;David Wright;Position eliminated
-2507;David Wright;Relocation
-2509;David Wright;Conflict with manager
-2510;David Wright;Poor performance
-2511;David Wright;Career change
-2512;David Wright;Not a good culture fit
-2513;David Wright;Going back to school
-2517;David Wright;Seeking new challenges
-2518;David Wright;Health reasons
-2522;David Wright;End of contract term
-2525;David Wright;Personal reasons
-2528;David Wright;Work-life balance
-2530;Daniel King;Position eliminated
-2531;Daniel King;Company downsizing
-2534;Daniel King;End of contract term
-2535;Daniel King;Personal reasons
-2537;Daniel King;Better opportunity
-2540;Daniel King;Conflict with manager
-2543;Daniel King;Health reasons
-2544;Daniel King;Not a good culture fit
-2548;Daniel King;Found a better role
-2550;Daniel King;Work-life balance
-2551;Daniel King;Seeking new challenges
-2553;Daniel King;Poor performance
-2554;Daniel King;Relocation
-2555;Daniel King;Going back to school
-2556;Daniel King;Career change
-2558;Daniel King;Seeking higher pay
-2560;Daniel King;Attendance issues
-2562;Robert Young;End of contract term
-2564;Robert Young;Work-life balance
-2567;Robert Young;Seeking higher pay
-2569;Robert Young;Personal reasons
-2570;Robert Young;Career change
-2571;Robert Young;Company downsizing
-2572;Robert Young;Better opportunity
-2573;Robert Young;Poor performance
-2574;Robert Young;Going back to school
-2575;Robert Young;Found a better role
-2576;Robert Young;Seeking new challenges
-2577;Robert Young;Not a good culture fit
-2580;Robert Young;Relocation
-2587;Robert Young;Health reasons
-2590;Robert Young;Conflict with manager
-2593;Robert Young;Position eliminated
-2596;Robert Young;Attendance issues
-2599;Joseph Harris;Better opportunity
-2601;Joseph Harris;Seeking higher pay
-2602;Joseph Harris;Conflict with manager
-2603;Joseph Harris;Going back to school
-2604;Joseph Harris;Company downsizing
-2605;Joseph Harris;Career change
-2609;Joseph Harris;Not a good culture fit
-2610;Joseph Harris;Seeking new challenges
-2611;Joseph Harris;Position eliminated
-2612;Joseph Harris;Work-life balance
-2613;Joseph Harris;Relocation
-2616;Joseph Harris;Poor performance
-2617;Joseph Harris;Found a better role
-2619;Joseph Harris;Health reasons
-2623;Joseph Harris;Personal reasons
-2624;Joseph Harris;End of contract term
-2625;Sarah Garcia;Poor performance
-2626;Sarah Garcia;Relocation
-2627;Sarah Garcia;Better opportunity
-2629;Sarah Garcia;Position eliminated
-2630;Sarah Garcia;Seeking new challenges
-2635;Sarah Garcia;Career change
-2636;Sarah Garcia;Company downsizing
-2638;Sarah Garcia;Found a better role
-2640;Sarah Garcia;Going back to school
-2641;Sarah Garcia;Not a good culture fit
-2642;Sarah Garcia;End of contract term
-2643;Sarah Garcia;Health reasons
-2644;Sarah Garcia;Conflict with manager
-2649;Sarah Garcia;Personal reasons
-2652;Sarah Garcia;Work-life balance
-2653;Sarah Garcia;Seeking higher pay
-2654;John Walker;Health reasons
-2655;John Walker;Work-life balance
-2656;John Walker;Conflict with manager
-2657;John Walker;End of contract term
-2658;John Walker;Not a good culture fit
-2663;John Walker;Seeking new challenges
-2666;John Walker;Personal reasons
-2667;John Walker;Seeking higher pay
-2668;John Walker;Relocation
-2672;John Walker;Better opportunity
-2675;John Walker;Poor performance
-2676;John Walker;Career change
-2677;John Walker;Company downsizing
-2680;John Walker;Position eliminated
-2681;John Walker;Going back to school
-2684;John Walker;Found a better role
-2685;John Walker;Attendance issues
-2690;Karen Clark;Personal reasons
-2692;Karen Clark;Going back to school
-2694;Karen Clark;Found a better role
-2695;Karen Clark;End of contract term
-2696;Karen Clark;Poor performance
-2700;Karen Clark;Better opportunity
-2704;Karen Clark;Career change
-2706;Karen Clark;Company downsizing
-2708;Karen Clark;Work-life balance
-2714;Karen Clark;Seeking new challenges
-2719;Karen Clark;Health reasons
-2720;Karen Clark;Conflict with manager
-2723;Karen Clark;Seeking higher pay
-2724;Karen Clark;Position eliminated
-2726;Karen Clark;Relocation
-2727;Karen Clark;Not a good culture fit
-2728;Karen Clark;Attendance issues
-2732;Joseph White;Seeking new challenges
-2737;Joseph White;Work-life balance
-2738;Joseph White;Personal reasons
-2739;Joseph White;Poor performance
-2741;Joseph White;Relocation
-2742;Joseph White;Conflict with manager
-2743;Joseph White;Company downsizing
-2746;Joseph White;Position eliminated
-2747;Joseph White;Better opportunity
-2749;Joseph White;Going back to school
-2751;Joseph White;End of contract term
-2752;Joseph White;Not a good culture fit
-2753;Joseph White;Found a better role
-2757;Joseph White;Seeking higher pay
-2758;Joseph White;Health reasons
-2760;Joseph White;Career change
-2761;Joseph White;Attendance issues
-2762;Linda Young;Seeking higher pay
-2764;Linda Young;Position eliminated
-2766;Linda Young;Personal reasons
-2771;Linda Young;Not a good culture fit
-2777;Linda Young;Better opportunity
-2779;Linda Young;Relocation
-2780;Linda Young;End of contract term
-2781;Linda Young;Seeking new challenges
-2783;Linda Young;Work-life balance
-2784;Linda Young;Poor performance
-2788;Linda Young;Found a better role
-2789;Linda Young;Conflict with manager
-2790;Linda Young;Company downsizing
-2791;James Martinez;Relocation
-2795;James Martinez;Career change
-2796;James Martinez;Conflict with manager
-2799;James Martinez;Seeking higher pay
-2807;James Martinez;Found a better role
-2810;James Martinez;Poor performance
-2811;James Martinez;Company downsizing
-2812;James Martinez;Better opportunity
-2818;James Martinez;Work-life balance
-2821;James Martinez;End of contract term
-2826;James Martinez;Personal reasons
-2827;James Martinez;Health reasons
-2828;James Martinez;Not a good culture fit
-2830;James Martinez;Seeking new challenges
-2834;James Martinez;Going back to school
-2835;James Martinez;Position eliminated
-2837;James Martinez;Attendance issues
-2838;Karen Miller;Found a better role
-2839;Karen Miller;Personal reasons
-2840;Karen Miller;Health reasons
-2842;Karen Miller;End of contract term
-2844;Karen Miller;Better opportunity
-2846;Karen Miller;Company downsizing
-2847;Karen Miller;Poor performance
-2848;Karen Miller;Going back to school
-2850;Karen Miller;Not a good culture fit
-2853;Karen Miller;Seeking new challenges
-2854;Karen Miller;Relocation
-2857;Karen Miller;Work-life balance
-2858;Karen Miller;Conflict with manager
-2860;Karen Miller;Seeking higher pay
-2862;Karen Miller;Position eliminated
-2865;Karen Miller;Career change
-2870;Karen Miller;Attendance issues
-2871;Sarah Harris;Seeking new challenges
-2872;Sarah Harris;Position eliminated
-2875;Sarah Harris;Poor performance
-2877;Sarah Harris;Conflict with manager
-2878;Sarah Harris;Going back to school
-2880;Sarah Harris;Career change
-2882;Sarah Harris;Relocation
-2885;Sarah Harris;Company downsizing
-2887;Sarah Harris;Health reasons
-2888;Sarah Harris;Better opportunity
-2889;Sarah Harris;Personal reasons
-2891;Sarah Harris;Found a better role
-2892;Susan Martinez;Not a good culture fit
-2895;Susan Martinez;Poor performance
-2897;Susan Martinez;Personal reasons
-2899;Susan Martinez;Found a better role
-2900;Susan Martinez;Better opportunity
-2901;Susan Martinez;Going back to school
-2903;Susan Martinez;Position eliminated
-2904;Susan Martinez;Health reasons
-2914;Susan Martinez;Conflict with manager
-2915;Susan Martinez;Relocation
-2916;Susan Martinez;Company downsizing
-2918;Susan Martinez;End of contract term
-2921;Susan Martinez;Career change
-2922;Susan Martinez;Seeking new challenges
-2923;Susan Martinez;Work-life balance
-2924;Susan Martinez;Seeking higher pay
-2925;Susan Martinez;Attendance issues
-2926;David Robinson;Seeking new challenges
-2927;David Robinson;Found a better role
-2929;David Robinson;Personal reasons
-2931;David Robinson;Health reasons
-2932;David Robinson;Conflict with manager
-2934;David Robinson;End of contract term
-2935;David Robinson;Position eliminated
-2938;David Robinson;Going back to school
-2939;David Robinson;Company downsizing
-2940;David Robinson;Career change
-2941;David Robinson;Poor performance
-2942;Paul Thompson;Poor performance
-2945;Paul Thompson;Not a good culture fit
-2948;Paul Thompson;Position eliminated
-2949;Paul Thompson;End of contract term
-2950;Paul Thompson;Career change
-2954;Paul Thompson;Relocation
-2955;Paul Thompson;Conflict with manager
-2959;Paul Thompson;Company downsizing
-2960;Paul Thompson;Personal reasons
-2961;Paul Thompson;Seeking new challenges
-2965;Paul Thompson;Better opportunity
-2966;Paul Thompson;Found a better role
-2967;Paul Thompson;Work-life balance
-2969;Paul Thompson;Health reasons
-2970;Paul Thompson;Seeking higher pay
-2971;Paul Thompson;Going back to school
-2975;Paul Thompson;Attendance issues
-2976;Jessica King;Seeking new challenges
-2981;Jessica King;Position eliminated
-2984;Jessica King;Company downsizing
-2985;Jessica King;Not a good culture fit
-2988;Jessica King;Going back to school
-2992;Jessica King;Better opportunity
-2993;Jessica King;Conflict with manager
-2995;Jessica King;Relocation
-2996;Jessica King;Work-life balance
-2999;Jessica King;Found a better role
-3001;Jessica King;Career change
-3004;Jessica King;Health reasons
-3007;Jessica King;Personal reasons
-3008;Jessica King;End of contract term
-3009;Jessica King;Poor performance
-3010;Jessica King;Seeking higher pay
-3011;Jessica King;Attendance issues
-3012;Daniel Robinson;Position eliminated
-3014;Daniel Robinson;Relocation
-3017;Daniel Robinson;Personal reasons
-3018;Daniel Robinson;Going back to school
-3019;Daniel Robinson;Better opportunity
-3022;Daniel Robinson;Seeking higher pay
-3023;Daniel Robinson;Not a good culture fit
-3027;Daniel Robinson;End of contract term
-3028;Daniel Robinson;Career change
-3029;Daniel Robinson;Found a better role
-3030;Daniel Robinson;Health reasons
-3031;Daniel Robinson;Seeking new challenges
-3032;Daniel Robinson;Company downsizing
-3033;Daniel Robinson;Conflict with manager
-3038;Daniel Robinson;Work-life balance
-3042;Daniel Robinson;Poor performance
-3044;Sarah Young;End of contract term
-3046;Sarah Young;Seeking new challenges
-3049;Sarah Young;Found a better role
-3051;Sarah Young;Going back to school
-3052;Sarah Young;Better opportunity
-3053;Sarah Young;Not a good culture fit
-3055;Sarah Young;Relocation
-3057;Sarah Young;Health reasons
-3058;Sarah Young;Personal reasons
-3061;Sarah Young;Poor performance
-3063;Sarah Young;Work-life balance
-3065;Sarah Young;Company downsizing
-3066;Sarah Young;Conflict with manager
-3068;Sarah Young;Seeking higher pay
-3069;Sarah Young;Position eliminated
-3070;Sarah Young;Career change
-3071;Sarah Young;Attendance issues
-3072;Jennifer Young;Better opportunity
-3073;Jennifer Young;Relocation
-3074;Jennifer Young;Health reasons
-3077;Jennifer Young;Personal reasons
-3078;Jennifer Young;Conflict with manager
-3079;Jennifer Young;Poor performance
-3080;Jennifer Young;Work-life balance
-3084;Jennifer Young;End of contract term
-3086;Jennifer Young;Seeking new challenges
-3089;Jennifer Young;Company downsizing
-3091;Jennifer Young;Position eliminated
-3092;Jennifer Young;Not a good culture fit
-3093;Mark Walker;Poor performance
-3094;Mark Walker;Conflict with manager
-3096;Mark Walker;Seeking higher pay
-3097;Mark Walker;Company downsizing
-3100;Mark Walker;Relocation
-3102;Mark Walker;Better opportunity
-3103;Mark Walker;Going back to school
-3105;Mark Walker;Work-life balance
-3107;Mark Walker;Position eliminated
-3108;Mark Walker;Career change
-3112;Mark Walker;Not a good culture fit
-3113;Mark Walker;End of contract term
-3115;Mark Walker;Personal reasons
-3118;Mark Walker;Found a better role
-3120;Mark Walker;Health reasons
-3121;Mark Walker;Seeking new challenges
-3122;Mark Walker;Attendance issues
-3124;John Thompson;Personal reasons
-3125;John Thompson;Company downsizing
-3127;John Thompson;Found a better role
-3130;John Thompson;Conflict with manager
-3131;John Thompson;Better opportunity
-3132;John Thompson;Health reasons
-3133;John Thompson;Position eliminated
-3134;John Thompson;End of contract term
-3135;John Thompson;Work-life balance
-3137;John Thompson;Seeking new challenges
-3138;John Thompson;Not a good culture fit
-3145;John Thompson;Going back to school
-3147;John Thompson;Poor performance
-3148;John Thompson;Career change
-3149;John Thompson;Relocation
-3152;John Thompson;Seeking higher pay
-3153;John Thompson;Attendance issues
-3155;Linda Harris;Seeking higher pay
-3156;Linda Harris;Position eliminated
-3157;Linda Harris;Poor performance
-3158;Linda Harris;Going back to school
-3159;Linda Harris;Relocation
-3161;Linda Harris;Conflict with manager
-3162;Linda Harris;End of contract term
-3164;Linda Harris;Not a good culture fit
-3165;Linda Harris;Company downsizing
-3166;Linda Harris;Career change
-3168;Linda Harris;Health reasons
-3169;Linda Harris;Found a better role
-3170;Linda Harris;Work-life balance
-3171;Linda Harris;Better opportunity
-3173;Linda Harris;Personal reasons
-3174;William Garcia;Going back to school
-3175;William Garcia;Personal reasons
-3176;William Garcia;Found a better role
-3177;William Garcia;Better opportunity
-3178;William Garcia;Company downsizing
-3179;William Garcia;Relocation
-3180;William Garcia;Poor performance
-3181;William Garcia;Not a good culture fit
-3183;William Garcia;Seeking new challenges
-3185;William Garcia;Career change
-3186;William Garcia;End of contract term
-3187;William Garcia;Position eliminated
-3191;William Garcia;Work-life balance
-3192;William Garcia;Health reasons
-3195;William Garcia;Conflict with manager
-3196;William Garcia;Seeking higher pay
-3202;William Garcia;Attendance issues
-3203;Paul Davis;Better opportunity
-3205;Paul Davis;Company downsizing
-3208;Paul Davis;Poor performance
-3212;Paul Davis;Going back to school
-3213;Paul Davis;Seeking new challenges
-3217;Paul Davis;Health reasons
-3225;Paul Davis;Relocation
-3227;Paul Davis;Work-life balance
-3228;Paul Davis;Not a good culture fit
-3230;Paul Davis;Conflict with manager
-3232;Paul Davis;Personal reasons
-3233;Paul Davis;End of contract term
-3235;Paul Davis;Position eliminated
-3236;Paul Davis;Found a better role
-3238;John Garcia;Personal reasons
-3240;John Garcia;Seeking higher pay
-3242;John Garcia;Company downsizing
-3245;John Garcia;Found a better role
-3246;John Garcia;Relocation
-3247;John Garcia;Health reasons
-3248;John Garcia;Conflict with manager
-3251;John Garcia;Position eliminated
-3253;John Garcia;Not a good culture fit
-3254;John Garcia;Work-life balance
-3259;John Garcia;Going back to school
-3261;John Garcia;Better opportunity
-3263;John Garcia;Poor performance
-3264;John Garcia;Career change
-3267;John Garcia;End of contract term
-3271;John Garcia;Seeking new challenges
-3274;John Garcia;Attendance issues
-3277;Betty Walker;Relocation
-3278;Betty Walker;Work-life balance
-3279;Betty Walker;Better opportunity
-3280;Betty Walker;Career change
-3284;Betty Walker;Conflict with manager
-3285;Betty Walker;Position eliminated
-3292;Betty Walker;Found a better role
-3293;Betty Walker;Not a good culture fit
-3294;Betty Walker;Seeking higher pay
-3296;Betty Walker;Going back to school
-3297;Betty Walker;Company downsizing
-3298;Betty Walker;Personal reasons
-3300;Betty Walker;End of contract term
-3301;Betty Walker;Health reasons
-3302;Betty Walker;Seeking new challenges
-3305;Betty Walker;Poor performance
-3306;Betty Walker;Attendance issues
-3310;Mark Harris;Health reasons
-3311;Mark Harris;Seeking new challenges
-3315;Mark Harris;Relocation
-3316;Mark Harris;End of contract term
-3318;Mark Harris;Work-life balance
-3322;Mark Harris;Position eliminated
-3323;Mark Harris;Company downsizing
-3324;Mark Harris;Poor performance
-3325;Mark Harris;Better opportunity
-3328;Mark Harris;Conflict with manager
-3331;Mark Harris;Found a better role
-3335;Mark Harris;Career change
-3336;Mark Harris;Seeking higher pay
-3341;Mark Harris;Not a good culture fit
-3343;Mark Harris;Personal reasons
-3345;Mark Harris;Going back to school
-3346;Mark Harris;Attendance issues
-3347;David Walker;Relocation
-3351;David Walker;Seeking higher pay
-3354;David Walker;Work-life balance
-3355;David Walker;Better opportunity
-3358;David Walker;Career change
-3361;David Walker;Found a better role
-3364;David Walker;Conflict with manager
-3366;David Walker;Health reasons
-3367;David Walker;Going back to school
-3368;David Walker;Personal reasons
-3369;David Walker;Seeking new challenges
-3371;David Walker;Not a good culture fit
-3372;David Walker;Company downsizing
-3374;David Walker;End of contract term
-3375;David Walker;Position eliminated
-3377;David Walker;Poor performance
-3379;Susan Harris;Health reasons
-3383;Susan Harris;Personal reasons
-3386;Susan Harris;Conflict with manager
-3390;Susan Harris;Position eliminated
-3392;Susan Harris;Relocation
-3395;Susan Harris;Going back to school
-3396;Susan Harris;Seeking new challenges
-3398;Susan Harris;Poor performance
-3399;Susan Harris;Better opportunity
-3401;Susan Harris;Work-life balance
-3402;Susan Harris;Not a good culture fit
-3403;Susan Harris;Company downsizing
-3404;Susan Harris;Seeking higher pay
-3405;Susan Harris;Found a better role
-3406;Susan Harris;End of contract term
-3407;Susan Harris;Career change
-3408;Susan Harris;Attendance issues
-3409;John White;Not a good culture fit
-3415;John White;Conflict with manager
-3420;John White;Seeking higher pay
-3421;John White;Career change
-3422;John White;Better opportunity
-3424;John White;Company downsizing
-3425;John White;Personal reasons
+﻿EmpID,FireReason,,Manager
+3433,Relocation,,David Garcia
+3434,Personal reasons,,Sarah Robinson
+3436,Health reasons,,Jessica Miller
+3438,Attendance issues,,James Harris
+3439,Work-life balance,,Nancy King
+3440,Position eliminated,,Michael Martin
+3442,Conflict with manager,,Daniel Allen
+3443,Seeking higher pay,,Betty Robinson
+3444,Better opportunity,,William Clark
+3447,Seeking new challenges,,Joseph Walker
+3448,Company downsizing,,Laura Miller
+3449,Career change,,Robert Wright
+3450,End of contract term,,Mark Robinson
+3451,Poor performance,,Jennifer Taylor
+3455,Found a better role,,Joseph King
+3458,Not a good culture fit,,Michael Clark
+3459,Relocation,,Linda Robinson
+3461,Poor performance,,David Martinez
+3462,Going back to school,,Jennifer Miller
+3463,Attendance issues,,William Taylor
+3464,Position eliminated,,Paul King
+3466,Conflict with manager,,Emily Clark
+3469,Personal reasons,,Susan Garcia
+3470,Company downsizing,,Linda King
+3475,Seeking new challenges,,Robert Clark
+3476,Better opportunity,,Betty Miller
+3478,Health reasons,,Laura Martin
+3479,Better opportunity,,Mark White
+3480,Relocation,,Daniel Martinez
+3481,Company downsizing,,James Wright
+3482,Seeking new challenges,,Michael Allen
+3486,Seeking higher pay,,Sarah Thompson
+3495,Position eliminated,,Jennifer Harris
+3498,Poor performance,,Michael Walker
+3499,Conflict with manager,,David Young
+3500,Career change,,Mark Martinez
+3501,End of contract term,,Karen Robinson
+3506,Found a better role,,Paul Brown
+3507,Work-life balance,,Jennifer Thompson
+3511,Personal reasons,,Daniel Martin
+3512,Not a good culture fit,,Susan Allen
+3513,Going back to school,,William Robinson
+3515,Seeking new challenges,,David Jones
+3516,Personal reasons,,Mark Clark
+3518,Relocation,,Susan Young
+3519,Career change,,Laura Clark
+3520,Poor performance,,Daniel Harris
+3523,End of contract term,,Robert Thompson
+3524,Attendance issues,,Joseph Miller
+3525,Seeking higher pay,,James Davis
+3527,Better opportunity,,William King
+3529,Health reasons,,Sarah Walker
+3533,Conflict with manager,,Paul Young
+3535,Position eliminated,,Betty White
+3537,Company downsizing,,James Allen
+3538,Work-life balance,,Joseph Martinez
+3540,Found a better role,,Daniel Smith
+3541,Poor performance,,William Harris
+3544,Career change,,Paul Clark
+3546,Position eliminated,,John Martinez
+3548,Seeking new challenges,,Jessica Robinson
+3549,End of contract term,,David Harris
+3550,Going back to school,,Robert Martin
+3552,Not a good culture fit,,Betty Martin
+3555,Health reasons,,Michael Thompson
+3556,Company downsizing,,Jennifer Clark
+3559,Attendance issues,,Mark Davis
+3562,Conflict with manager,,David Wright
+3564,Seeking higher pay,,Daniel King
+3568,Found a better role,,Robert Young
+3569,Relocation,,Joseph Harris
+3570,Career change,,Sarah Garcia
+3571,Work-life balance,,John Walker
+3572,Seeking higher pay,,Karen Clark
+3573,Conflict with manager,,Joseph White
+3574,Going back to school,,Linda Young
+3575,Not a good culture fit,,James Martinez
+3576,Relocation,,Karen Miller
+3581,Health reasons,,Sarah Harris
+3582,Position eliminated,,Susan Martinez
+3583,Found a better role,,David Robinson
+3586,Company downsizing,,Paul Thompson
+3587,Poor performance,,Jessica King
+3588,Personal reasons,,Daniel Robinson
+3590,Seeking new challenges,,Sarah Young
+3591,End of contract term,,Jennifer Young
+3592,Better opportunity,,Mark Walker
+3595,Attendance issues,,John Thompson
+3597,Poor performance,,Linda Harris
+3598,End of contract term,,William Garcia
+3602,Position eliminated,,Paul Davis
+3603,Going back to school,,John Garcia
+3604,Not a good culture fit,,Betty Walker
+3606,Seeking higher pay,,Mark Harris
+3607,Work-life balance,,David Walker
+3614,Conflict with manager,,Susan Harris
+3615,Relocation,,John White
+3619,Personal reasons,,
+3620,Better opportunity,,
+3622,Career change,,
+3625,Company downsizing,,
+3627,Attendance issues,,
+3629,Health reasons,,
+3631,Going back to school,,
+3632,Personal reasons,,
+3634,Career change,,
+3639,Found a better role,,
+3641,Health reasons,,
+3642,Relocation,,
+3647,Conflict with manager,,
+3650,Company downsizing,,
+3652,Seeking new challenges,,
+3653,Not a good culture fit,,
+3658,Poor performance,,
+3659,Position eliminated,,
+3661,Seeking higher pay,,
+3663,Work-life balance,,
+3664,Attendance issues,,
+3666,End of contract term,,
+3667,Better opportunity,,
+3668,Not a good culture fit,,
+3669,Company downsizing,,
+3670,Conflict with manager,,
+3671,Relocation,,
+3673,End of contract term,,
+3674,Position eliminated,,
+3675,Attendance issues,,
+3683,Personal reasons,,
+3684,Better opportunity,,
+3685,Found a better role,,
+3686,Poor performance,,
+3688,Position eliminated,,
+3690,End of contract term,,
+3693,Poor performance,,
+3694,Better opportunity,,
+3695,Seeking higher pay,,
+3696,Company downsizing,,
+3698,Health reasons,,
+3699,Going back to school,,
+3703,Personal reasons,,
+3704,Seeking new challenges,,
+3705,Found a better role,,
+3708,Relocation,,
+3709,Not a good culture fit,,
+3712,Work-life balance,,
+3716,Conflict with manager,,
+3718,Position eliminated,,
+3720,Work-life balance,,
+3721,Conflict with manager,,
+3722,Relocation,,
+3723,End of contract term,,
+3724,Better opportunity,,
+3725,Seeking higher pay,,
+3726,Seeking new challenges,,
+3729,Not a good culture fit,,
+3731,Health reasons,,
+3733,Found a better role,,
+3736,Company downsizing,,
+3738,Personal reasons,,
+3739,Poor performance,,
+3740,Career change,,
+3741,Going back to school,,
+3742,Attendance issues,,
+3745,Going back to school,,
+3747,Seeking higher pay,,
+3753,End of contract term,,
+3754,Conflict with manager,,
+3755,Company downsizing,,
+3757,Better opportunity,,
+3758,Career change,,
+3759,Poor performance,,
+3761,Not a good culture fit,,
+3763,Personal reasons,,
+3766,Health reasons,,
+3767,Seeking new challenges,,
+3770,Work-life balance,,
+3771,Found a better role,,
+3772,Relocation,,
+3773,Position eliminated,,
+3774,Attendance issues,,
+3775,Position eliminated,,
+3776,Poor performance,,
+3778,Health reasons,,
+3779,Career change,,
+3780,Found a better role,,
+3781,Company downsizing,,
+3782,Personal reasons,,
+3786,Seeking higher pay,,
+3787,End of contract term,,
+3788,Going back to school,,
+3790,Work-life balance,,
+3792,Relocation,,
+3796,Better opportunity,,
+3798,Seeking new challenges,,
+3803,Not a good culture fit,,
+3806,Attendance issues,,
+3807,Position eliminated,,
+3808,Found a better role,,
+3809,Conflict with manager,,
+3811,End of contract term,,
+3812,Work-life balance,,
+3814,Better opportunity,,
+3817,Seeking higher pay,,
+3818,Company downsizing,,
+3820,Poor performance,,
+3822,Relocation,,
+3823,Not a good culture fit,,
+3826,Personal reasons,,
+3829,Career change,,
+3832,Health reasons,,
+3833,Seeking new challenges,,
+3834,Attendance issues,,
+3835,Seeking higher pay,,
+3837,Not a good culture fit,,
+3838,Poor performance,,
+3840,Personal reasons,,
+3842,Better opportunity,,
+3843,Company downsizing,,
+3844,Going back to school,,
+3846,Career change,,
+3847,Seeking new challenges,,
+3850,Health reasons,,
+3851,End of contract term,,
+3852,Position eliminated,,
+3853,Relocation,,
+3854,Work-life balance,,
+3855,Found a better role,,
+3856,Conflict with manager,,
+3857,Attendance issues,,
+3859,Poor performance,,
+3860,Company downsizing,,
+3862,Personal reasons,,
+3864,Better opportunity,,
+3865,Career change,,
+3866,Conflict with manager,,
+3869,Relocation,,
+3870,Not a good culture fit,,
+3872,Seeking higher pay,,
+3873,Found a better role,,
+3877,Going back to school,,
+3878,Health reasons,,
+3879,End of contract term,,
+3880,Seeking new challenges,,
+3883,Position eliminated,,
+3887,Work-life balance,,
+3888,Found a better role,,
+3889,Better opportunity,,
+3890,Poor performance,,
+3893,Relocation,,
+3895,Conflict with manager,,
+3896,Seeking new challenges,,
+3897,End of contract term,,
+3898,Personal reasons,,
+3899,Career change,,
+3902,Work-life balance,,
+3905,Position eliminated,,
+3908,Attendance issues,,
+3909,Not a good culture fit,,
+3910,Going back to school,,
+3912,Health reasons,,
+3913,Health reasons,,
+3914,Going back to school,,
+3917,Not a good culture fit,,
+3918,Attendance issues,,
+3920,Conflict with manager,,
+3921,Found a better role,,
+3923,Career change,,
+3925,Relocation,,
+3927,Better opportunity,,
+3928,Seeking higher pay,,
+3929,Poor performance,,
+3934,Position eliminated,,
+3936,Company downsizing,,
+3942,Seeking new challenges,,
+3943,Personal reasons,,
+3947,Work-life balance,,
+3948,End of contract term,,
+3949,Seeking higher pay,,
+3951,Position eliminated,,
+3955,Not a good culture fit,,
+3956,End of contract term,,
+3959,Relocation,,
+3964,Company downsizing,,
+3966,Career change,,
+3967,Personal reasons,,
+3970,Going back to school,,
+3973,Found a better role,,
+3974,Better opportunity,,
+3975,Conflict with manager,,
+3979,Company downsizing,,
+3981,Conflict with manager,,
+3984,Better opportunity,,
+3985,Work-life balance,,
+3987,Found a better role,,
+3988,Poor performance,,
+3990,Relocation,,
+3992,Seeking higher pay,,
+3995,Going back to school,,
+3998,Not a good culture fit,,
+3999,Career change,,
+4000,Seeking new challenges,,
+1002,Position eliminated,,
+1003,End of contract term,,
+1004,Health reasons,,
+1006,Attendance issues,,
+1007,Personal reasons,,
+1008,Poor performance,,
+1009,Going back to school,,
+1010,Conflict with manager,,
+1011,Personal reasons,,
+1012,Position eliminated,,
+1014,Seeking new challenges,,
+1016,Better opportunity,,
+1017,Company downsizing,,
+1018,Found a better role,,
+1019,Relocation,,
+1020,Career change,,
+1021,End of contract term,,
+1023,Not a good culture fit,,
+1024,Health reasons,,
+1025,Attendance issues,,
+1026,Work-life balance,,
+1027,Seeking higher pay,,
+1028,Company downsizing,,
+1032,Relocation,,
+1036,Found a better role,,
+1037,Poor performance,,
+1039,Going back to school,,
+1040,Not a good culture fit,,
+1041,Work-life balance,,
+1043,Position eliminated,,
+1045,Health reasons,,
+1046,Personal reasons,,
+1049,Better opportunity,,
+1051,Seeking new challenges,,
+1052,Conflict with manager,,
+1053,Career change,,
+1060,Seeking higher pay,,
+1062,Position eliminated,,
+1064,Better opportunity,,
+1066,Conflict with manager,,
+1069,Seeking new challenges,,
+1070,Relocation,,
+1071,Going back to school,,
+1074,Not a good culture fit,,
+1075,Attendance issues,,
+1076,Company downsizing,,
+1078,Career change,,
+1079,Health reasons,,
+1081,Poor performance,,
+1082,End of contract term,,
+1086,Seeking higher pay,,
+1087,Found a better role,,
+1088,Work-life balance,,
+1089,Personal reasons,,
+1091,Work-life balance,,
+1096,Relocation,,
+1097,Seeking new challenges,,
+1098,Found a better role,,
+1099,Health reasons,,
+1103,Position eliminated,,
+1105,Better opportunity,,
+1109,Not a good culture fit,,
+1111,Conflict with manager,,
+1116,Personal reasons,,
+1117,End of contract term,,
+1118,Poor performance,,
+1119,Going back to school,,
+1122,Career change,,
+1124,Company downsizing,,
+1126,Seeking higher pay,,
+1129,Going back to school,,
+1132,Company downsizing,,
+1133,Found a better role,,
+1134,Seeking higher pay,,
+1138,Relocation,,
+1139,Not a good culture fit,,
+1143,Position eliminated,,
+1147,Work-life balance,,
+1153,Conflict with manager,,
+1154,Career change,,
+1155,End of contract term,,
+1156,Poor performance,,
+1158,Personal reasons,,
+1160,Health reasons,,
+1162,Better opportunity,,
+1172,Seeking new challenges,,
+1173,Attendance issues,,
+1174,Health reasons,,
+1175,Not a good culture fit,,
+1178,End of contract term,,
+1182,Conflict with manager,,
+1184,Position eliminated,,
+1188,Personal reasons,,
+1189,Seeking higher pay,,
+1190,Company downsizing,,
+1193,Relocation,,
+1194,Seeking new challenges,,
+1195,Found a better role,,
+1201,Career change,,
+1202,Work-life balance,,
+1204,Attendance issues,,
+1206,Better opportunity,,
+1208,Poor performance,,
+1210,Going back to school,,
+1211,Found a better role,,
+1212,End of contract term,,
+1216,Going back to school,,
+1217,Seeking new challenges,,
+1219,Conflict with manager,,
+1220,Personal reasons,,
+1221,Company downsizing,,
+1222,Position eliminated,,
+1224,Not a good culture fit,,
+1227,Career change,,
+1234,Relocation,,
+1236,Seeking higher pay,,
+1237,Work-life balance,,
+1238,Better opportunity,,
+1239,Poor performance,,
+1241,Position eliminated,,
+1246,Work-life balance,,
+1248,Relocation,,
+1249,Seeking higher pay,,
+1252,Career change,,
+1253,Seeking new challenges,,
+1255,Poor performance,,
+1259,Personal reasons,,
+1262,Better opportunity,,
+1265,Not a good culture fit,,
+1266,End of contract term,,
+1267,Found a better role,,
+1270,Health reasons,,
+1272,Conflict with manager,,
+1273,Going back to school,,
+1279,Company downsizing,,
+1281,Attendance issues,,
+1282,Work-life balance,,
+1286,Conflict with manager,,
+1287,Seeking higher pay,,
+1288,Found a better role,,
+1291,Better opportunity,,
+1293,Relocation,,
+1294,Personal reasons,,
+1296,Poor performance,,
+1297,Career change,,
+1301,End of contract term,,
+1302,Position eliminated,,
+1305,Not a good culture fit,,
+1307,Poor performance,,
+1308,Better opportunity,,
+1310,Seeking higher pay,,
+1311,Work-life balance,,
+1314,Personal reasons,,
+1316,Company downsizing,,
+1317,End of contract term,,
+1318,Not a good culture fit,,
+1319,Conflict with manager,,
+1321,Going back to school,,
+1322,Position eliminated,,
+1326,Seeking new challenges,,
+1328,Career change,,
+1329,Relocation,,
+1330,Attendance issues,,
+1334,Found a better role,,
+1336,Health reasons,,
+1337,Work-life balance,,
+1339,Seeking new challenges,,
+1340,Company downsizing,,
+1342,Personal reasons,,
+1343,End of contract term,,
+1346,Relocation,,
+1347,Seeking higher pay,,
+1348,Attendance issues,,
+1349,Found a better role,,
+1352,Conflict with manager,,
+1353,Going back to school,,
+1354,Poor performance,,
+1355,Better opportunity,,
+1356,Not a good culture fit,,
+1357,Company downsizing,,
+1358,Health reasons,,
+1361,End of contract term,,
+1362,Better opportunity,,
+1364,Poor performance,,
+1366,Seeking higher pay,,
+1371,Going back to school,,
+1373,Relocation,,
+1376,Work-life balance,,
+1377,Personal reasons,,
+1383,Not a good culture fit,,
+1384,Found a better role,,
+1386,Seeking new challenges,,
+1387,Position eliminated,,
+1388,Conflict with manager,,
+1392,Career change,,
+1393,Attendance issues,,
+1395,Position eliminated,,
+1396,Poor performance,,
+1397,Relocation,,
+1398,Company downsizing,,
+1400,Not a good culture fit,,
+1404,Conflict with manager,,
+1405,Health reasons,,
+1409,Going back to school,,
+1410,Personal reasons,,
+1413,End of contract term,,
+1414,Better opportunity,,
+1421,Seeking new challenges,,
+1422,Found a better role,,
+1424,Work-life balance,,
+1426,Seeking higher pay,,
+1429,Career change,,
+1430,Attendance issues,,
+1433,Work-life balance,,
+1434,Seeking higher pay,,
+1438,Not a good culture fit,,
+1439,Better opportunity,,
+1441,Position eliminated,,
+1445,Relocation,,
+1446,Company downsizing,,
+1447,Health reasons,,
+1450,Going back to school,,
+1454,Poor performance,,
+1456,Personal reasons,,
+1460,Seeking new challenges,,
+1461,Found a better role,,
+1465,End of contract term,,
+1471,Going back to school,,
+1474,Health reasons,,
+1475,Seeking higher pay,,
+1476,Seeking new challenges,,
+1477,Personal reasons,,
+1478,Relocation,,
+1483,Better opportunity,,
+1485,End of contract term,,
+1487,Not a good culture fit,,
+1488,Company downsizing,,
+1494,Career change,,
+1496,Work-life balance,,
+1498,Found a better role,,
+1499,Attendance issues,,
+1501,Poor performance,,
+1502,Position eliminated,,
+1503,Seeking new challenges,,
+1504,Company downsizing,,
+1506,Better opportunity,,
+1511,Relocation,,
+1512,Personal reasons,,
+1517,Poor performance,,
+1518,Health reasons,,
+1519,Position eliminated,,
+1520,Work-life balance,,
+1521,Career change,,
+1523,Not a good culture fit,,
+1525,Seeking higher pay,,
+1527,End of contract term,,
+1531,Conflict with manager,,
+1532,Going back to school,,
+1533,Found a better role,,
+1539,Attendance issues,,
+1543,Better opportunity,,
+1544,Work-life balance,,
+1546,Relocation,,
+1547,Seeking higher pay,,
+1550,Company downsizing,,
+1551,Going back to school,,
+1552,Career change,,
+1554,Conflict with manager,,
+1557,Personal reasons,,
+1559,Health reasons,,
+1560,End of contract term,,
+1562,Not a good culture fit,,
+1563,Seeking new challenges,,
+1564,Position eliminated,,
+1565,Poor performance,,
+1566,Found a better role,,
+1567,Attendance issues,,
+1570,Relocation,,
+1572,Seeking higher pay,,
+1574,Poor performance,,
+1575,Health reasons,,
+1576,Seeking new challenges,,
+1578,Personal reasons,,
+1581,End of contract term,,
+1582,Career change,,
+1583,Better opportunity,,
+1585,Conflict with manager,,
+1589,Company downsizing,,
+1591,Found a better role,,
+1592,Work-life balance,,
+1596,Position eliminated,,
+1597,Not a good culture fit,,
+1598,Going back to school,,
+1599,Attendance issues,,
+1601,Work-life balance,,
+1602,Not a good culture fit,,
+1605,Personal reasons,,
+1609,Better opportunity,,
+1610,Relocation,,
+1611,Seeking new challenges,,
+1612,Found a better role,,
+1613,Position eliminated,,
+1619,Health reasons,,
+1621,Poor performance,,
+1622,Conflict with manager,,
+1623,Company downsizing,,
+1624,Career change,,
+1626,Company downsizing,,
+1628,Seeking higher pay,,
+1629,Career change,,
+1630,Found a better role,,
+1631,Position eliminated,,
+1633,Going back to school,,
+1634,Personal reasons,,
+1635,Relocation,,
+1636,Work-life balance,,
+1637,Health reasons,,
+1638,Not a good culture fit,,
+1639,Poor performance,,
+1640,Better opportunity,,
+1641,Conflict with manager,,
+1642,Seeking new challenges,,
+1643,End of contract term,,
+1644,Attendance issues,,
+1645,Better opportunity,,
+1646,Poor performance,,
+1647,Company downsizing,,
+1650,Conflict with manager,,
+1651,Relocation,,
+1652,Health reasons,,
+1653,Going back to school,,
+1654,Position eliminated,,
+1659,Seeking new challenges,,
+1660,Work-life balance,,
+1663,Not a good culture fit,,
+1671,Personal reasons,,
+1674,Seeking higher pay,,
+1675,End of contract term,,
+1678,Career change,,
+1679,Seeking new challenges,,
+1680,Career change,,
+1681,Work-life balance,,
+1683,Health reasons,,
+1684,Going back to school,,
+1685,End of contract term,,
+1686,Company downsizing,,
+1688,Position eliminated,,
+1689,Relocation,,
+1690,Not a good culture fit,,
+1692,Better opportunity,,
+1694,Personal reasons,,
+1695,Conflict with manager,,
+1697,Poor performance,,
+1698,Found a better role,,
+1699,Seeking higher pay,,
+1701,Attendance issues,,
+1706,End of contract term,,
+1707,Seeking higher pay,,
+1708,Seeking new challenges,,
+1709,Health reasons,,
+1710,Going back to school,,
+1711,Company downsizing,,
+1715,Work-life balance,,
+1716,Found a better role,,
+1717,Better opportunity,,
+1718,Not a good culture fit,,
+1721,Relocation,,
+1723,Conflict with manager,,
+1724,Position eliminated,,
+1727,Personal reasons,,
+1729,Poor performance,,
+1731,Career change,,
+1732,Going back to school,,
+1733,Better opportunity,,
+1735,Conflict with manager,,
+1736,Seeking higher pay,,
+1738,Company downsizing,,
+1739,Position eliminated,,
+1740,Relocation,,
+1746,Health reasons,,
+1747,Poor performance,,
+1748,Work-life balance,,
+1752,Not a good culture fit,,
+1753,Career change,,
+1759,Personal reasons,,
+1760,Found a better role,,
+1761,Seeking new challenges,,
+1762,End of contract term,,
+1766,Attendance issues,,
+1767,Poor performance,,
+1768,Going back to school,,
+1769,Conflict with manager,,
+1772,Found a better role,,
+1773,Health reasons,,
+1774,Personal reasons,,
+1775,Seeking new challenges,,
+1776,Career change,,
+1777,Not a good culture fit,,
+1780,Position eliminated,,
+1782,Work-life balance,,
+1784,Better opportunity,,
+1786,Company downsizing,,
+1787,Seeking higher pay,,
+1790,Personal reasons,,
+1791,Work-life balance,,
+1793,Found a better role,,
+1795,Health reasons,,
+1796,Going back to school,,
+1797,Seeking new challenges,,
+1799,End of contract term,,
+1800,Career change,,
+1801,Relocation,,
+1803,Conflict with manager,,
+1804,Not a good culture fit,,
+1805,Poor performance,,
+1809,Better opportunity,,
+1812,Company downsizing,,
+1817,Position eliminated,,
+1823,Seeking higher pay,,
+1824,Attendance issues,,
+1825,Going back to school,,
+1826,Not a good culture fit,,
+1827,Company downsizing,,
+1828,Work-life balance,,
+1831,Relocation,,
+1834,Poor performance,,
+1835,End of contract term,,
+1839,Health reasons,,
+1845,Better opportunity,,
+1847,Position eliminated,,
+1850,Seeking higher pay,,
+1851,Found a better role,,
+1852,Career change,,
+1854,Conflict with manager,,
+1855,Seeking new challenges,,
+1857,Personal reasons,,
+1858,Attendance issues,,
+1859,Poor performance,,
+1860,Company downsizing,,
+1863,Going back to school,,
+1864,Career change,,
+1867,Conflict with manager,,
+1868,Personal reasons,,
+1872,Found a better role,,
+1873,Better opportunity,,
+1875,Not a good culture fit,,
+1876,Health reasons,,
+1878,Relocation,,
+1879,Position eliminated,,
+1880,End of contract term,,
+1882,Seeking higher pay,,
+1883,Seeking new challenges,,
+1886,Work-life balance,,
+1888,Attendance issues,,
+1898,Health reasons,,
+1899,End of contract term,,
+1902,Seeking new challenges,,
+1903,Found a better role,,
+1911,Relocation,,
+1912,Conflict with manager,,
+1913,Going back to school,,
+1914,Company downsizing,,
+1915,Better opportunity,,
+1916,Seeking higher pay,,
+1918,Work-life balance,,
+1919,Not a good culture fit,,
+1920,Position eliminated,,
+1921,Personal reasons,,
+1923,Career change,,
+1924,Poor performance,,
+1925,Attendance issues,,
+1927,Position eliminated,,
+1932,Conflict with manager,,
+1934,Seeking new challenges,,
+1937,Going back to school,,
+1942,Personal reasons,,
+1943,Not a good culture fit,,
+1945,Company downsizing,,
+1948,Better opportunity,,
+1950,Poor performance,,
+1951,Seeking higher pay,,
+1953,Relocation,,
+1954,Work-life balance,,
+1957,Health reasons,,
+1959,Found a better role,,
+1961,Career change,,
+1962,End of contract term,,
+1963,Attendance issues,,
+1964,Position eliminated,,
+1969,End of contract term,,
+1970,Found a better role,,
+1971,Seeking new challenges,,
+1972,Poor performance,,
+1977,Relocation,,
+1978,Better opportunity,,
+1979,Career change,,
+1981,Conflict with manager,,
+1983,Work-life balance,,
+1985,Not a good culture fit,,
+1988,Personal reasons,,
+1990,Company downsizing,,
+1991,Going back to school,,
+1992,Seeking higher pay,,
+1993,Health reasons,,
+1994,Health reasons,,
+1996,Position eliminated,,
+1997,Seeking new challenges,,
+1999,Poor performance,,
+2000,Relocation,,
+2001,Better opportunity,,
+2002,Career change,,
+2003,Going back to school,,
+2005,Work-life balance,,
+2008,Not a good culture fit,,
+2010,Conflict with manager,,
+2011,Personal reasons,,
+2012,Found a better role,,
+2013,Seeking higher pay,,
+2018,Seeking new challenges,,
+2020,Relocation,,
+2023,Position eliminated,,
+2024,Work-life balance,,
+2025,Found a better role,,
+2026,Not a good culture fit,,
+2028,Conflict with manager,,
+2030,Career change,,
+2031,Seeking higher pay,,
+2032,Going back to school,,
+2034,Poor performance,,
+2035,Health reasons,,
+2037,Company downsizing,,
+2040,Attendance issues,,
+2050,Better opportunity,,
+2052,End of contract term,,
+2054,Personal reasons,,
+2056,Found a better role,,
+2058,Seeking new challenges,,
+2059,Personal reasons,,
+2064,Going back to school,,
+2066,Conflict with manager,,
+2073,Better opportunity,,
+2076,Relocation,,
+2077,Not a good culture fit,,
+2078,Position eliminated,,
+2080,Health reasons,,
+2085,Seeking higher pay,,
+2086,Poor performance,,
+2087,Work-life balance,,
+2089,End of contract term,,
+2093,Company downsizing,,
+2094,Career change,,
+2095,Attendance issues,,
+2097,Relocation,,
+2101,Health reasons,,
+2106,Found a better role,,
+2107,Position eliminated,,
+2108,Better opportunity,,
+2111,Work-life balance,,
+2112,Seeking new challenges,,
+2113,Going back to school,,
+2115,End of contract term,,
+2122,Poor performance,,
+2124,Personal reasons,,
+2126,Not a good culture fit,,
+2131,Conflict with manager,,
+2134,Company downsizing,,
+2135,Career change,,
+2136,Seeking higher pay,,
+2137,Attendance issues,,
+2138,Work-life balance,,
+2141,Seeking higher pay,,
+2142,Health reasons,,
+2143,Conflict with manager,,
+2146,Company downsizing,,
+2147,Better opportunity,,
+2149,Seeking new challenges,,
+2150,Relocation,,
+2151,Found a better role,,
+2155,End of contract term,,
+2156,Personal reasons,,
+2157,Not a good culture fit,,
+2159,Going back to school,,
+2160,Poor performance,,
+2165,Health reasons,,
+2167,Relocation,,
+2169,Not a good culture fit,,
+2171,End of contract term,,
+2172,Career change,,
+2173,Poor performance,,
+2175,Conflict with manager,,
+2179,Seeking higher pay,,
+2180,Better opportunity,,
+2181,Personal reasons,,
+2184,Company downsizing,,
+2185,Work-life balance,,
+2186,Position eliminated,,
+2188,Seeking new challenges,,
+2190,Found a better role,,
+2191,Attendance issues,,
+2192,Going back to school,,
+2193,Seeking new challenges,,
+2195,Career change,,
+2196,Health reasons,,
+2197,Company downsizing,,
+2198,Seeking higher pay,,
+2203,Going back to school,,
+2204,Not a good culture fit,,
+2205,Found a better role,,
+2210,Work-life balance,,
+2212,Better opportunity,,
+2213,Position eliminated,,
+2214,Conflict with manager,,
+2215,Relocation,,
+2217,Poor performance,,
+2218,End of contract term,,
+2219,Attendance issues,,
+2222,Personal reasons,,
+2226,Work-life balance,,
+2228,End of contract term,,
+2234,Position eliminated,,
+2236,Going back to school,,
+2237,Conflict with manager,,
+2238,Seeking higher pay,,
+2239,Better opportunity,,
+2242,Health reasons,,
+2243,Seeking new challenges,,
+2245,Poor performance,,
+2246,Career change,,
+2247,Company downsizing,,
+2248,Not a good culture fit,,
+2249,Found a better role,,
+2250,Personal reasons,,
+2255,Relocation,,
+2257,Company downsizing,,
+2260,Going back to school,,
+2264,Conflict with manager,,
+2266,Seeking new challenges,,
+2268,Position eliminated,,
+2269,Personal reasons,,
+2270,Not a good culture fit,,
+2272,Better opportunity,,
+2273,Career change,,
+2280,Work-life balance,,
+2283,Poor performance,,
+2286,Found a better role,,
+2287,End of contract term,,
+2288,Health reasons,,
+2290,Seeking higher pay,,
+2293,Relocation,,
+2295,Attendance issues,,
+2297,Conflict with manager,,
+2299,Seeking new challenges,,
+2301,Poor performance,,
+2302,End of contract term,,
+2303,Going back to school,,
+2305,Better opportunity,,
+2306,Company downsizing,,
+2308,Not a good culture fit,,
+2311,Position eliminated,,
+2315,Career change,,
+2319,Health reasons,,
+2320,Seeking higher pay,,
+2321,Work-life balance,,
+2323,Found a better role,,
+2324,Personal reasons,,
+2329,Relocation,,
+2331,Attendance issues,,
+2332,Career change,,
+2334,Conflict with manager,,
+2338,Not a good culture fit,,
+2339,Health reasons,,
+2340,Better opportunity,,
+2344,Seeking new challenges,,
+2345,End of contract term,,
+2349,Personal reasons,,
+2351,Company downsizing,,
+2352,Going back to school,,
+2354,Found a better role,,
+2355,Relocation,,
+2356,Poor performance,,
+2357,Work-life balance,,
+2358,Position eliminated,,
+2359,Seeking higher pay,,
+2360,Attendance issues,,
+2361,Seeking new challenges,,
+2362,Better opportunity,,
+2363,Work-life balance,,
+2365,End of contract term,,
+2366,Position eliminated,,
+2367,Poor performance,,
+2368,Not a good culture fit,,
+2369,Found a better role,,
+2370,Health reasons,,
+2372,Relocation,,
+2373,Career change,,
+2374,Going back to school,,
+2376,Seeking new challenges,,
+2379,Going back to school,,
+2380,Relocation,,
+2382,End of contract term,,
+2384,Career change,,
+2387,Seeking higher pay,,
+2389,Poor performance,,
+2390,Found a better role,,
+2391,Not a good culture fit,,
+2393,Position eliminated,,
+2394,Work-life balance,,
+2396,Health reasons,,
+2397,Better opportunity,,
+2398,Conflict with manager,,
+2399,Personal reasons,,
+2401,Company downsizing,,
+2402,Attendance issues,,
+2403,Position eliminated,,
+2404,Personal reasons,,
+2405,Going back to school,,
+2407,Not a good culture fit,,
+2412,Health reasons,,
+2413,Seeking higher pay,,
+2415,Career change,,
+2417,End of contract term,,
+2418,Conflict with manager,,
+2422,Found a better role,,
+2424,Company downsizing,,
+2425,Better opportunity,,
+2426,Poor performance,,
+2427,Work-life balance,,
+2428,Seeking new challenges,,
+2429,Relocation,,
+2430,Work-life balance,,
+2431,Going back to school,,
+2432,Relocation,,
+2433,Found a better role,,
+2434,Health reasons,,
+2435,Personal reasons,,
+2436,Better opportunity,,
+2437,Not a good culture fit,,
+2442,Poor performance,,
+2446,Conflict with manager,,
+2447,Seeking higher pay,,
+2448,Position eliminated,,
+2449,End of contract term,,
+2450,Company downsizing,,
+2458,Career change,,
+2459,Seeking new challenges,,
+2460,Attendance issues,,
+2462,Health reasons,,
+2465,Found a better role,,
+2466,Relocation,,
+2467,Work-life balance,,
+2469,Seeking new challenges,,
+2473,Conflict with manager,,
+2474,End of contract term,,
+2475,Personal reasons,,
+2476,Company downsizing,,
+2479,Not a good culture fit,,
+2482,Better opportunity,,
+2485,Career change,,
+2488,Position eliminated,,
+2493,Going back to school,,
+2494,Poor performance,,
+2495,Seeking higher pay,,
+2496,Attendance issues,,
+2497,Better opportunity,,
+2498,Found a better role,,
+2499,Company downsizing,,
+2503,Position eliminated,,
+2507,Relocation,,
+2509,Conflict with manager,,
+2510,Poor performance,,
+2511,Career change,,
+2512,Not a good culture fit,,
+2513,Going back to school,,
+2517,Seeking new challenges,,
+2518,Health reasons,,
+2522,End of contract term,,
+2525,Personal reasons,,
+2528,Work-life balance,,
+2530,Position eliminated,,
+2531,Company downsizing,,
+2534,End of contract term,,
+2535,Personal reasons,,
+2537,Better opportunity,,
+2540,Conflict with manager,,
+2543,Health reasons,,
+2544,Not a good culture fit,,
+2548,Found a better role,,
+2550,Work-life balance,,
+2551,Seeking new challenges,,
+2553,Poor performance,,
+2554,Relocation,,
+2555,Going back to school,,
+2556,Career change,,
+2558,Seeking higher pay,,
+2560,Attendance issues,,
+2562,End of contract term,,
+2564,Work-life balance,,
+2567,Seeking higher pay,,
+2569,Personal reasons,,
+2570,Career change,,
+2571,Company downsizing,,
+2572,Better opportunity,,
+2573,Poor performance,,
+2574,Going back to school,,
+2575,Found a better role,,
+2576,Seeking new challenges,,
+2577,Not a good culture fit,,
+2580,Relocation,,
+2587,Health reasons,,
+2590,Conflict with manager,,
+2593,Position eliminated,,
+2596,Attendance issues,,
+2599,Better opportunity,,
+2601,Seeking higher pay,,
+2602,Conflict with manager,,
+2603,Going back to school,,
+2604,Company downsizing,,
+2605,Career change,,
+2609,Not a good culture fit,,
+2610,Seeking new challenges,,
+2611,Position eliminated,,
+2612,Work-life balance,,
+2613,Relocation,,
+2616,Poor performance,,
+2617,Found a better role,,
+2619,Health reasons,,
+2623,Personal reasons,,
+2624,End of contract term,,
+2625,Poor performance,,
+2626,Relocation,,
+2627,Better opportunity,,
+2629,Position eliminated,,
+2630,Seeking new challenges,,
+2635,Career change,,
+2636,Company downsizing,,
+2638,Found a better role,,
+2640,Going back to school,,
+2641,Not a good culture fit,,
+2642,End of contract term,,
+2643,Health reasons,,
+2644,Conflict with manager,,
+2649,Personal reasons,,
+2652,Work-life balance,,
+2653,Seeking higher pay,,
+2654,Health reasons,,
+2655,Work-life balance,,
+2656,Conflict with manager,,
+2657,End of contract term,,
+2658,Not a good culture fit,,
+2663,Seeking new challenges,,
+2666,Personal reasons,,
+2667,Seeking higher pay,,
+2668,Relocation,,
+2672,Better opportunity,,
+2675,Poor performance,,
+2676,Career change,,
+2677,Company downsizing,,
+2680,Position eliminated,,
+2681,Going back to school,,
+2684,Found a better role,,
+2685,Attendance issues,,
+2690,Personal reasons,,
+2692,Going back to school,,
+2694,Found a better role,,
+2695,End of contract term,,
+2696,Poor performance,,
+2700,Better opportunity,,
+2704,Career change,,
+2706,Company downsizing,,
+2708,Work-life balance,,
+2714,Seeking new challenges,,
+2719,Health reasons,,
+2720,Conflict with manager,,
+2723,Seeking higher pay,,
+2724,Position eliminated,,
+2726,Relocation,,
+2727,Not a good culture fit,,
+2728,Attendance issues,,
+2732,Seeking new challenges,,
+2737,Work-life balance,,
+2738,Personal reasons,,
+2739,Poor performance,,
+2741,Relocation,,
+2742,Conflict with manager,,
+2743,Company downsizing,,
+2746,Position eliminated,,
+2747,Better opportunity,,
+2749,Going back to school,,
+2751,End of contract term,,
+2752,Not a good culture fit,,
+2753,Found a better role,,
+2757,Seeking higher pay,,
+2758,Health reasons,,
+2760,Career change,,
+2761,Attendance issues,,
+2762,Seeking higher pay,,
+2764,Position eliminated,,
+2766,Personal reasons,,
+2771,Not a good culture fit,,
+2777,Better opportunity,,
+2779,Relocation,,
+2780,End of contract term,,
+2781,Seeking new challenges,,
+2783,Work-life balance,,
+2784,Poor performance,,
+2788,Found a better role,,
+2789,Conflict with manager,,
+2790,Company downsizing,,
+2791,Relocation,,
+2795,Career change,,
+2796,Conflict with manager,,
+2799,Seeking higher pay,,
+2807,Found a better role,,
+2810,Poor performance,,
+2811,Company downsizing,,
+2812,Better opportunity,,
+2818,Work-life balance,,
+2821,End of contract term,,
+2826,Personal reasons,,
+2827,Health reasons,,
+2828,Not a good culture fit,,
+2830,Seeking new challenges,,
+2834,Going back to school,,
+2835,Position eliminated,,
+2837,Attendance issues,,
+2838,Found a better role,,
+2839,Personal reasons,,
+2840,Health reasons,,
+2842,End of contract term,,
+2844,Better opportunity,,
+2846,Company downsizing,,
+2847,Poor performance,,
+2848,Going back to school,,
+2850,Not a good culture fit,,
+2853,Seeking new challenges,,
+2854,Relocation,,
+2857,Work-life balance,,
+2858,Conflict with manager,,
+2860,Seeking higher pay,,
+2862,Position eliminated,,
+2865,Career change,,
+2870,Attendance issues,,
+2871,Seeking new challenges,,
+2872,Position eliminated,,
+2875,Poor performance,,
+2877,Conflict with manager,,
+2878,Going back to school,,
+2880,Career change,,
+2882,Relocation,,
+2885,Company downsizing,,
+2887,Health reasons,,
+2888,Better opportunity,,
+2889,Personal reasons,,
+2891,Found a better role,,
+2892,Not a good culture fit,,
+2895,Poor performance,,
+2897,Personal reasons,,
+2899,Found a better role,,
+2900,Better opportunity,,
+2901,Going back to school,,
+2903,Position eliminated,,
+2904,Health reasons,,
+2914,Conflict with manager,,
+2915,Relocation,,
+2916,Company downsizing,,
+2918,End of contract term,,
+2921,Career change,,
+2922,Seeking new challenges,,
+2923,Work-life balance,,
+2924,Seeking higher pay,,
+2925,Attendance issues,,
+2926,Seeking new challenges,,
+2927,Found a better role,,
+2929,Personal reasons,,
+2931,Health reasons,,
+2932,Conflict with manager,,
+2934,End of contract term,,
+2935,Position eliminated,,
+2938,Going back to school,,
+2939,Company downsizing,,
+2940,Career change,,
+2941,Poor performance,,
+2942,Poor performance,,
+2945,Not a good culture fit,,
+2948,Position eliminated,,
+2949,End of contract term,,
+2950,Career change,,
+2954,Relocation,,
+2955,Conflict with manager,,
+2959,Company downsizing,,
+2960,Personal reasons,,
+2961,Seeking new challenges,,
+2965,Better opportunity,,
+2966,Found a better role,,
+2967,Work-life balance,,
+2969,Health reasons,,
+2970,Seeking higher pay,,
+2971,Going back to school,,
+2975,Attendance issues,,
+2976,Seeking new challenges,,
+2981,Position eliminated,,
+2984,Company downsizing,,
+2985,Not a good culture fit,,
+2988,Going back to school,,
+2992,Better opportunity,,
+2993,Conflict with manager,,
+2995,Relocation,,
+2996,Work-life balance,,
+2999,Found a better role,,
+3001,Career change,,
+3004,Health reasons,,
+3007,Personal reasons,,
+3008,End of contract term,,
+3009,Poor performance,,
+3010,Seeking higher pay,,
+3011,Attendance issues,,
+3012,Position eliminated,,
+3014,Relocation,,
+3017,Personal reasons,,
+3018,Going back to school,,
+3019,Better opportunity,,
+3022,Seeking higher pay,,
+3023,Not a good culture fit,,
+3027,End of contract term,,
+3028,Career change,,
+3029,Found a better role,,
+3030,Health reasons,,
+3031,Seeking new challenges,,
+3032,Company downsizing,,
+3033,Conflict with manager,,
+3038,Work-life balance,,
+3042,Poor performance,,
+3044,End of contract term,,
+3046,Seeking new challenges,,
+3049,Found a better role,,
+3051,Going back to school,,
+3052,Better opportunity,,
+3053,Not a good culture fit,,
+3055,Relocation,,
+3057,Health reasons,,
+3058,Personal reasons,,
+3061,Poor performance,,
+3063,Work-life balance,,
+3065,Company downsizing,,
+3066,Conflict with manager,,
+3068,Seeking higher pay,,
+3069,Position eliminated,,
+3070,Career change,,
+3071,Attendance issues,,
+3072,Better opportunity,,
+3073,Relocation,,
+3074,Health reasons,,
+3077,Personal reasons,,
+3078,Conflict with manager,,
+3079,Poor performance,,
+3080,Work-life balance,,
+3084,End of contract term,,
+3086,Seeking new challenges,,
+3089,Company downsizing,,
+3091,Position eliminated,,
+3092,Not a good culture fit,,
+3093,Poor performance,,
+3094,Conflict with manager,,
+3096,Seeking higher pay,,
+3097,Company downsizing,,
+3100,Relocation,,
+3102,Better opportunity,,
+3103,Going back to school,,
+3105,Work-life balance,,
+3107,Position eliminated,,
+3108,Career change,,
+3112,Not a good culture fit,,
+3113,End of contract term,,
+3115,Personal reasons,,
+3118,Found a better role,,
+3120,Health reasons,,
+3121,Seeking new challenges,,
+3122,Attendance issues,,
+3124,Personal reasons,,
+3125,Company downsizing,,
+3127,Found a better role,,
+3130,Conflict with manager,,
+3131,Better opportunity,,
+3132,Health reasons,,
+3133,Position eliminated,,
+3134,End of contract term,,
+3135,Work-life balance,,
+3137,Seeking new challenges,,
+3138,Not a good culture fit,,
+3145,Going back to school,,
+3147,Poor performance,,
+3148,Career change,,
+3149,Relocation,,
+3152,Seeking higher pay,,
+3153,Attendance issues,,
+3155,Seeking higher pay,,
+3156,Position eliminated,,
+3157,Poor performance,,
+3158,Going back to school,,
+3159,Relocation,,
+3161,Conflict with manager,,
+3162,End of contract term,,
+3164,Not a good culture fit,,
+3165,Company downsizing,,
+3166,Career change,,
+3168,Health reasons,,
+3169,Found a better role,,
+3170,Work-life balance,,
+3171,Better opportunity,,
+3173,Personal reasons,,
+3174,Going back to school,,
+3175,Personal reasons,,
+3176,Found a better role,,
+3177,Better opportunity,,
+3178,Company downsizing,,
+3179,Relocation,,
+3180,Poor performance,,
+3181,Not a good culture fit,,
+3183,Seeking new challenges,,
+3185,Career change,,
+3186,End of contract term,,
+3187,Position eliminated,,
+3191,Work-life balance,,
+3192,Health reasons,,
+3195,Conflict with manager,,
+3196,Seeking higher pay,,
+3202,Attendance issues,,
+3203,Better opportunity,,
+3205,Company downsizing,,
+3208,Poor performance,,
+3212,Going back to school,,
+3213,Seeking new challenges,,
+3217,Health reasons,,
+3225,Relocation,,
+3227,Work-life balance,,
+3228,Not a good culture fit,,
+3230,Conflict with manager,,
+3232,Personal reasons,,
+3233,End of contract term,,
+3235,Position eliminated,,
+3236,Found a better role,,
+3238,Personal reasons,,
+3240,Seeking higher pay,,
+3242,Company downsizing,,
+3245,Found a better role,,
+3246,Relocation,,
+3247,Health reasons,,
+3248,Conflict with manager,,
+3251,Position eliminated,,
+3253,Not a good culture fit,,
+3254,Work-life balance,,
+3259,Going back to school,,
+3261,Better opportunity,,
+3263,Poor performance,,
+3264,Career change,,
+3267,End of contract term,,
+3271,Seeking new challenges,,
+3274,Attendance issues,,
+3277,Relocation,,
+3278,Work-life balance,,
+3279,Better opportunity,,
+3280,Career change,,
+3284,Conflict with manager,,
+3285,Position eliminated,,
+3292,Found a better role,,
+3293,Not a good culture fit,,
+3294,Seeking higher pay,,
+3296,Going back to school,,
+3297,Company downsizing,,
+3298,Personal reasons,,
+3300,End of contract term,,
+3301,Health reasons,,
+3302,Seeking new challenges,,
+3305,Poor performance,,
+3306,Attendance issues,,
+3310,Health reasons,,
+3311,Seeking new challenges,,
+3315,Relocation,,
+3316,End of contract term,,
+3318,Work-life balance,,
+3322,Position eliminated,,
+3323,Company downsizing,,
+3324,Poor performance,,
+3325,Better opportunity,,
+3328,Conflict with manager,,
+3331,Found a better role,,
+3335,Career change,,
+3336,Seeking higher pay,,
+3341,Not a good culture fit,,
+3343,Personal reasons,,
+3345,Going back to school,,
+3346,Attendance issues,,
+3347,Relocation,,
+3351,Seeking higher pay,,
+3354,Work-life balance,,
+3355,Better opportunity,,
+3358,Career change,,
+3361,Found a better role,,
+3364,Conflict with manager,,
+3366,Health reasons,,
+3367,Going back to school,,
+3368,Personal reasons,,
+3369,Seeking new challenges,,
+3371,Not a good culture fit,,
+3372,Company downsizing,,
+3374,End of contract term,,
+3375,Position eliminated,,
+3377,Poor performance,,
+3379,Health reasons,,
+3383,Personal reasons,,
+3386,Conflict with manager,,
+3390,Position eliminated,,
+3392,Relocation,,
+3395,Going back to school,,
+3396,Seeking new challenges,,
+3398,Poor performance,,
+3399,Better opportunity,,
+3401,Work-life balance,,
+3402,Not a good culture fit,,
+3403,Company downsizing,,
+3404,Seeking higher pay,,
+3405,Found a better role,,
+3406,End of contract term,,
+3407,Career change,,
+3408,Attendance issues,,
+3409,Not a good culture fit,,
+3415,Conflict with manager,,
+3420,Seeking higher pay,,
+3421,Career change,,
+3422,Better opportunity,,
+3424,Company downsizing,,
+3425,Personal reasons,,
