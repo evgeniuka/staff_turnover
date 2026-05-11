@@ -1,46 +1,121 @@
-import pandas as pd
-import numpy as np
+import argparse
 from pathlib import Path
 
-BASE = Path(".")
-EXIT_SRC = BASE / "employee_data_exit_view.csv"
-CH_SRC   = BASE / "employee_data_Ch.csv"
+import pandas as pd
 
-def clean_dataframe_keep_names(df: pd.DataFrame) -> pd.DataFrame:
+
+BASE = Path(".")
+EMPLOYEE_SRC = BASE / "employee_data_Ch.csv"
+EXIT_SRC = BASE / "employee_data_exit_view.csv"
+OUTPUT_CSV = BASE / "employee_clean.csv"
+
+NA_LIKE = {"", "na", "n/a", "none", "null", "-", "--", "nan"}
+
+
+def normalize_missing_values(df: pd.DataFrame) -> pd.DataFrame:
     df = df.copy()
-    na_like = {"", "na", "n/a", "none", "null", "-", "--", "nan"}
-    for c in df.select_dtypes(include=["object"]).columns:
-        df[c] = df[c].astype(str).str.strip().replace({v: pd.NA for v in na_like}, regex=False)
+    text_columns = [
+        column
+        for column in df.columns
+        if pd.api.types.is_object_dtype(df[column]) or pd.api.types.is_string_dtype(df[column])
+    ]
+    for column in text_columns:
+        df[column] = (
+            df[column]
+            .astype("string")
+            .str.strip()
+            .replace({value: pd.NA for value in NA_LIKE}, regex=False)
+        )
     return df
 
-def main():
-    ex_raw = pd.read_csv(EXIT_SRC, encoding="utf-8-sig")
-    ch_raw = pd.read_csv(CH_SRC,   sep=";", encoding="utf-8-sig")
 
-    ex_raw["EmpID"] = pd.to_numeric(ex_raw["EmpID"], errors="coerce").astype("Int64")
-    ch_raw["EmpID"] = pd.to_numeric(ch_raw["EmpID"], errors="coerce").astype("Int64")
-
-    ex_fire = ex_raw[["EmpID", "FireReason"]].drop_duplicates(subset=["EmpID"], keep="first")
-    merged = ch_raw.merge(ex_fire, on="EmpID", how="left")
-
-    rng = np.random.default_rng(42)
-    managers = ex_raw["Manager"].dropna().astype(str).str.strip().unique()
-    weights  = rng.gamma(shape=0.6, scale=1.0, size=len(managers))
-    probs    = weights / weights.sum()
-    merged["Supervisor"] = rng.choice(managers, size=len(merged), replace=True, p=probs)
-
-    merged = clean_dataframe_keep_names(merged)
-
-    leaver_mask = merged["FireReason"].notna()
-    merged.loc[leaver_mask, "EmployeeStatus"] = "Exited"
+def normalize_emp_id(df: pd.DataFrame) -> pd.DataFrame:
+    df = df.copy()
+    df["EmpID"] = pd.to_numeric(df["EmpID"], errors="coerce").astype("Int64")
+    return df
 
 
-    merged["DOB"] = pd.to_datetime(merged["DOB"], format="%d.%m.%Y", errors="coerce").dt.strftime("%Y-%m-%d")
-    merged = merged.drop_duplicates(subset=["FirstName", "LastName", "DOB"], keep="first")
+def format_date(series: pd.Series, date_format: str) -> pd.Series:
+    parsed = pd.to_datetime(series, format=date_format, errors="coerce")
+    return parsed.dt.strftime("%Y-%m-%d").astype("string").replace("<NA>", pd.NA)
 
-    merged.to_csv("employee_clean.csv", index=False, encoding="utf-8-sig")
 
-    print(f"[OK] employee_clean.csv | rows={len(merged)} | managers={len(managers)}")
+def build_exit_lookup(exit_df: pd.DataFrame) -> pd.DataFrame:
+    exit_df = normalize_emp_id(normalize_missing_values(exit_df))
+    exit_lookup = (
+        exit_df[["EmpID", "FireReason", "Manager"]]
+        .rename(columns={"Manager": "ExitManager"})
+        .drop_duplicates(subset=["EmpID"], keep="first")
+    )
+    return exit_lookup
+
+
+def clean_employee_data(employee_df: pd.DataFrame, exit_df: pd.DataFrame) -> pd.DataFrame:
+    employees = normalize_emp_id(normalize_missing_values(employee_df))
+    exits = build_exit_lookup(exit_df)
+
+    cleaned = employees.merge(exits, on="EmpID", how="left")
+
+    if "Supervisor" in cleaned.columns:
+        cleaned["Supervisor"] = cleaned["Supervisor"].fillna(cleaned["ExitManager"])
+
+    exited_mask = cleaned["FireReason"].notna()
+    cleaned.loc[exited_mask, "EmployeeStatus"] = "Exited"
+
+    cleaned["DOB"] = format_date(cleaned["DOB"], "%d.%m.%Y")
+    cleaned["StartDate"] = format_date(cleaned["StartDate"], "%d-%b-%y")
+    cleaned["ExitDate"] = format_date(cleaned["ExitDate"], "%d-%b-%y")
+
+    cleaned = cleaned.drop_duplicates(subset=["FirstName", "LastName", "DOB"], keep="first")
+    return cleaned
+
+
+def summarize(cleaned: pd.DataFrame) -> str:
+    status_counts = cleaned["EmployeeStatus"].value_counts(dropna=False)
+    fire_reasons = cleaned["FireReason"].value_counts(dropna=True).head(5)
+    missing_counts = cleaned.isna().sum().sort_values(ascending=False).head(8)
+
+    lines = [
+        "Staff turnover cleaning summary",
+        "-" * 36,
+        f"Rows: {len(cleaned):,}",
+        f"Columns: {len(cleaned.columns):,}",
+        "",
+        "Employee status:",
+        status_counts.to_string(),
+        "",
+        "Top exit reasons:",
+        fire_reasons.to_string() if not fire_reasons.empty else "No exit reasons found",
+        "",
+        "Most missing values:",
+        missing_counts.to_string(),
+    ]
+    return "\n".join(lines)
+
+
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="Clean and merge HR staff turnover CSV files.")
+    parser.add_argument("--employees", type=Path, default=EMPLOYEE_SRC)
+    parser.add_argument("--exits", type=Path, default=EXIT_SRC)
+    parser.add_argument("--output", type=Path, default=OUTPUT_CSV)
+    parser.add_argument("--summary", action="store_true", help="Print a short data quality summary.")
+    return parser.parse_args()
+
+
+def main() -> None:
+    args = parse_args()
+
+    employee_df = pd.read_csv(args.employees, sep=";", encoding="utf-8-sig")
+    exit_df = pd.read_csv(args.exits, encoding="utf-8-sig")
+
+    cleaned = clean_employee_data(employee_df, exit_df)
+    cleaned.to_csv(args.output, index=False, encoding="utf-8-sig")
+
+    print(f"[OK] {args.output} | rows={len(cleaned):,} | columns={len(cleaned.columns):,}")
+    if args.summary:
+        print()
+        print(summarize(cleaned))
+
 
 if __name__ == "__main__":
     main()
